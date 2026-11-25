@@ -1,7 +1,7 @@
 {
-  "status": "research_draft_30_rounds",
-  "requested_round_count": 30,
-  "verified_round_count": 30,
+  "status": "research_draft_60_rounds",
+  "requested_round_count": 60,
+  "verified_round_count": 60,
   "scope": "Men's senior club and national teams, 2000 onward",
   "teammate_definition": "Overlapping membership of a senior roster; playing together is not required.",
   "answer_policy": "Accept any other player whose qualifying overlaps with all three displayed players can be verified. The alternatives list is not exhaustive.",
@@ -2981,17 +2981,2177 @@
         "reveal": "Didier Drogba links the first two via Chelsea FC and the third via Côte d’Ivoire men’s senior national team.",
         "adjudication": "Accept every independently verified qualifying player other than the three displayed players. The listed alternatives are not exhaustive."
       }
+    },
+    {
+      "id": 31,
+      "difficulty": "medium",
+      "difficulty_rationale": "Editorial estimate based on player recognition and a cross-club career connection; not play-tested.",
+      "displayed_players": [
+        "Marco Reus",
+        "Mats Hummels",
+        "Riyad Mahrez"
+      ],
+      "primary_solution": {
+        "player": "İlkay Gündoğan",
+        "connections": [
+          {
+            "displayed_player": "Marco Reus",
+            "team": "Borussia Dortmund",
+            "team_type": "club",
+            "verified_overlap": {
+              "start": "2013-05-25",
+              "end": "2013-05-25"
+            },
+            "evidence": [
+              {
+                "url": "https://www.uefa.com/newsfiles/UCL/2013/2009612_LU.pdf",
+                "description": "UEFA Champions League final matchday lineup for 2013-05-25 lists both players in the Borussia Dortmund squad."
+              }
+            ]
+          },
+          {
+            "displayed_player": "Mats Hummels",
+            "team": "Borussia Dortmund",
+            "team_type": "club",
+            "verified_overlap": {
+              "start": "2013-05-25",
+              "end": "2013-05-25"
+            },
+            "evidence": [
+              {
+                "url": "https://www.uefa.com/newsfiles/UCL/2013/2009612_LU.pdf",
+                "description": "UEFA Champions League final matchday lineup for 2013-05-25 lists both players in the Borussia Dortmund squad."
+              }
+            ]
+          },
+          {
+            "displayed_player": "Riyad Mahrez",
+            "team": "Manchester City FC",
+            "team_type": "club",
+            "verified_overlap": {
+              "start": "2021-05-29",
+              "end": "2021-05-29"
+            },
+            "evidence": [
+              {
+                "url": "https://www.uefa.com/newsfiles/UCL/2021/2029498_LU.pdf",
+                "description": "UEFA Champions League final matchday lineup for 2021-05-29 lists both players in the Manchester City FC squad."
+              }
+            ]
+          }
+        ]
+      },
+      "verified_alternative_solutions": [],
+      "alternatives_status": "Alternative solutions have not been exhaustively researched; an empty list does not mean none exist. Accept any independently verified qualifying answer.",
+      "hints": [
+        "The answer shared senior club squads with each displayed player.",
+        "Two of the displayed players shared a squad with the answer at Borussia Dortmund.",
+        "The remaining displayed player shared a squad with the answer at Manchester City FC."
+      ],
+      "game_master": {
+        "prompt": "Name a player who was a senior teammate of all three displayed players.",
+        "reveal": "İlkay Gündoğan shared Borussia Dortmund with Marco Reus and Mats Hummels, and Manchester City FC with Riyad Mahrez.",
+        "adjudication": "Accept any independently verified player other than the displayed players. The alternatives list is not exhaustive."
+      }
+    },
+    {
+      "id": 32,
+      "difficulty": "medium",
+      "difficulty_rationale": "Editorial estimate based on player recognition and a cross-club career connection; not play-tested.",
+      "displayed_players": [
+        "Robert Lewandowski",
+        "Sven Bender",
+        "Phil Foden"
+      ],
+      "primary_solution": {
+        "player": "İlkay Gündoğan",
+        "connections": [
+          {
+            "displayed_player": "Robert Lewandowski",
+            "team": "Borussia Dortmund",
+            "team_type": "club",
+            "verified_overlap": {
+              "start": "2013-05-25",
+              "end": "2013-05-25"
+            },
+            "evidence": [
+              {
+                "url": "https://www.uefa.com/newsfiles/UCL/2013/2009612_LU.pdf",
+                "description": "UEFA Champions League final matchday lineup for 2013-05-25 lists both players in the Borussia Dortmund squad."
+              }
+            ]
+          },
+          {
+            "displayed_player": "Sven Bender",
+            "team": "Borussia Dortmund",
+            "team_type": "club",
+            "verified_overlap": {
+              "start": "2013-05-25",
+              "end": "2013-05-25"
+            },
+            "evidence": [
+              {
+                "url": "https://www.uefa.com/newsfiles/UCL/2013/2009612_LU.pdf",
+                "description": "UEFA Champions League final matchday lineup for 2013-05-25 lists both players in the Borussia Dortmund squad."
+              }
+            ]
+          },
+          {
+            "displayed_player": "Phil Foden",
+            "team": "Manchester City FC",
+            "team_type": "club",
+            "verified_overlap": {
+              "start": "2021-05-29",
+              "end": "2021-05-29"
+            },
+            "evidence": [
+              {
+                "url": "https://www.uefa.com/newsfiles/UCL/2021/2029498_LU.pdf",
+                "description": "UEFA Champions League final matchday lineup for 2021-05-29 lists both players in the Manchester City FC squad."
+              }
+            ]
+          }
+        ]
+      },
+      "verified_alternative_solutions": [],
+      "alternatives_status": "Alternative solutions have not been exhaustively researched; an empty list does not mean none exist. Accept any independently verified qualifying answer.",
+      "hints": [
+        "The answer shared senior club squads with each displayed player.",
+        "Two of the displayed players shared a squad with the answer at Borussia Dortmund.",
+        "The remaining displayed player shared a squad with the answer at Manchester City FC."
+      ],
+      "game_master": {
+        "prompt": "Name a player who was a senior teammate of all three displayed players.",
+        "reveal": "İlkay Gündoğan shared Borussia Dortmund with Robert Lewandowski and Sven Bender, and Manchester City FC with Phil Foden.",
+        "adjudication": "Accept any independently verified player other than the displayed players. The alternatives list is not exhaustive."
+      }
+    },
+    {
+      "id": 33,
+      "difficulty": "medium",
+      "difficulty_rationale": "Editorial estimate based on player recognition and a cross-club career connection; not play-tested.",
+      "displayed_players": [
+        "Neven Subotić",
+        "Łukasz Piszczek",
+        "Kevin De Bruyne"
+      ],
+      "primary_solution": {
+        "player": "İlkay Gündoğan",
+        "connections": [
+          {
+            "displayed_player": "Neven Subotić",
+            "team": "Borussia Dortmund",
+            "team_type": "club",
+            "verified_overlap": {
+              "start": "2013-05-25",
+              "end": "2013-05-25"
+            },
+            "evidence": [
+              {
+                "url": "https://www.uefa.com/newsfiles/UCL/2013/2009612_LU.pdf",
+                "description": "UEFA Champions League final matchday lineup for 2013-05-25 lists both players in the Borussia Dortmund squad."
+              }
+            ]
+          },
+          {
+            "displayed_player": "Łukasz Piszczek",
+            "team": "Borussia Dortmund",
+            "team_type": "club",
+            "verified_overlap": {
+              "start": "2013-05-25",
+              "end": "2013-05-25"
+            },
+            "evidence": [
+              {
+                "url": "https://www.uefa.com/newsfiles/UCL/2013/2009612_LU.pdf",
+                "description": "UEFA Champions League final matchday lineup for 2013-05-25 lists both players in the Borussia Dortmund squad."
+              }
+            ]
+          },
+          {
+            "displayed_player": "Kevin De Bruyne",
+            "team": "Manchester City FC",
+            "team_type": "club",
+            "verified_overlap": {
+              "start": "2021-05-29",
+              "end": "2021-05-29"
+            },
+            "evidence": [
+              {
+                "url": "https://www.uefa.com/newsfiles/UCL/2021/2029498_LU.pdf",
+                "description": "UEFA Champions League final matchday lineup for 2021-05-29 lists both players in the Manchester City FC squad."
+              }
+            ]
+          }
+        ]
+      },
+      "verified_alternative_solutions": [],
+      "alternatives_status": "Alternative solutions have not been exhaustively researched; an empty list does not mean none exist. Accept any independently verified qualifying answer.",
+      "hints": [
+        "The answer shared senior club squads with each displayed player.",
+        "Two of the displayed players shared a squad with the answer at Borussia Dortmund.",
+        "The remaining displayed player shared a squad with the answer at Manchester City FC."
+      ],
+      "game_master": {
+        "prompt": "Name a player who was a senior teammate of all three displayed players.",
+        "reveal": "İlkay Gündoğan shared Borussia Dortmund with Neven Subotić and Łukasz Piszczek, and Manchester City FC with Kevin De Bruyne.",
+        "adjudication": "Accept any independently verified player other than the displayed players. The alternatives list is not exhaustive."
+      }
+    },
+    {
+      "id": 34,
+      "difficulty": "medium",
+      "difficulty_rationale": "Editorial estimate based on player recognition and a cross-club career connection; not play-tested.",
+      "displayed_players": [
+        "Marco Reus",
+        "İlkay Gündoğan",
+        "Alphonso Davies"
+      ],
+      "primary_solution": {
+        "player": "Robert Lewandowski",
+        "connections": [
+          {
+            "displayed_player": "Marco Reus",
+            "team": "Borussia Dortmund",
+            "team_type": "club",
+            "verified_overlap": {
+              "start": "2013-05-25",
+              "end": "2013-05-25"
+            },
+            "evidence": [
+              {
+                "url": "https://www.uefa.com/newsfiles/UCL/2013/2009612_LU.pdf",
+                "description": "UEFA Champions League final matchday lineup for 2013-05-25 lists both players in the Borussia Dortmund squad."
+              }
+            ]
+          },
+          {
+            "displayed_player": "İlkay Gündoğan",
+            "team": "Borussia Dortmund",
+            "team_type": "club",
+            "verified_overlap": {
+              "start": "2013-05-25",
+              "end": "2013-05-25"
+            },
+            "evidence": [
+              {
+                "url": "https://www.uefa.com/newsfiles/UCL/2013/2009612_LU.pdf",
+                "description": "UEFA Champions League final matchday lineup for 2013-05-25 lists both players in the Borussia Dortmund squad."
+              }
+            ]
+          },
+          {
+            "displayed_player": "Alphonso Davies",
+            "team": "FC Bayern München",
+            "team_type": "club",
+            "verified_overlap": {
+              "start": "2020-08-23",
+              "end": "2020-08-23"
+            },
+            "evidence": [
+              {
+                "url": "https://www.uefa.com/newsfiles/UCL/2020/2030150_LU.pdf",
+                "description": "UEFA Champions League final matchday lineup for 2020-08-23 lists both players in the FC Bayern München squad."
+              }
+            ]
+          }
+        ]
+      },
+      "verified_alternative_solutions": [],
+      "alternatives_status": "Alternative solutions have not been exhaustively researched; an empty list does not mean none exist. Accept any independently verified qualifying answer.",
+      "hints": [
+        "The answer shared senior club squads with each displayed player.",
+        "Two of the displayed players shared a squad with the answer at Borussia Dortmund.",
+        "The remaining displayed player shared a squad with the answer at FC Bayern München."
+      ],
+      "game_master": {
+        "prompt": "Name a player who was a senior teammate of all three displayed players.",
+        "reveal": "Robert Lewandowski shared Borussia Dortmund with Marco Reus and İlkay Gündoğan, and FC Bayern München with Alphonso Davies.",
+        "adjudication": "Accept any independently verified player other than the displayed players. The alternatives list is not exhaustive."
+      }
+    },
+    {
+      "id": 35,
+      "difficulty": "medium",
+      "difficulty_rationale": "Editorial estimate based on player recognition and a cross-club career connection; not play-tested.",
+      "displayed_players": [
+        "Mats Hummels",
+        "Sven Bender",
+        "Serge Gnabry"
+      ],
+      "primary_solution": {
+        "player": "Robert Lewandowski",
+        "connections": [
+          {
+            "displayed_player": "Mats Hummels",
+            "team": "Borussia Dortmund",
+            "team_type": "club",
+            "verified_overlap": {
+              "start": "2013-05-25",
+              "end": "2013-05-25"
+            },
+            "evidence": [
+              {
+                "url": "https://www.uefa.com/newsfiles/UCL/2013/2009612_LU.pdf",
+                "description": "UEFA Champions League final matchday lineup for 2013-05-25 lists both players in the Borussia Dortmund squad."
+              }
+            ]
+          },
+          {
+            "displayed_player": "Sven Bender",
+            "team": "Borussia Dortmund",
+            "team_type": "club",
+            "verified_overlap": {
+              "start": "2013-05-25",
+              "end": "2013-05-25"
+            },
+            "evidence": [
+              {
+                "url": "https://www.uefa.com/newsfiles/UCL/2013/2009612_LU.pdf",
+                "description": "UEFA Champions League final matchday lineup for 2013-05-25 lists both players in the Borussia Dortmund squad."
+              }
+            ]
+          },
+          {
+            "displayed_player": "Serge Gnabry",
+            "team": "FC Bayern München",
+            "team_type": "club",
+            "verified_overlap": {
+              "start": "2020-08-23",
+              "end": "2020-08-23"
+            },
+            "evidence": [
+              {
+                "url": "https://www.uefa.com/newsfiles/UCL/2020/2030150_LU.pdf",
+                "description": "UEFA Champions League final matchday lineup for 2020-08-23 lists both players in the FC Bayern München squad."
+              }
+            ]
+          }
+        ]
+      },
+      "verified_alternative_solutions": [],
+      "alternatives_status": "Alternative solutions have not been exhaustively researched; an empty list does not mean none exist. Accept any independently verified qualifying answer.",
+      "hints": [
+        "The answer shared senior club squads with each displayed player.",
+        "Two of the displayed players shared a squad with the answer at Borussia Dortmund.",
+        "The remaining displayed player shared a squad with the answer at FC Bayern München."
+      ],
+      "game_master": {
+        "prompt": "Name a player who was a senior teammate of all three displayed players.",
+        "reveal": "Robert Lewandowski shared Borussia Dortmund with Mats Hummels and Sven Bender, and FC Bayern München with Serge Gnabry.",
+        "adjudication": "Accept any independently verified player other than the displayed players. The alternatives list is not exhaustive."
+      }
+    },
+    {
+      "id": 36,
+      "difficulty": "medium",
+      "difficulty_rationale": "Editorial estimate based on player recognition and a cross-club career connection; not play-tested.",
+      "displayed_players": [
+        "Neven Subotić",
+        "Łukasz Piszczek",
+        "Joshua Kimmich"
+      ],
+      "primary_solution": {
+        "player": "Robert Lewandowski",
+        "connections": [
+          {
+            "displayed_player": "Neven Subotić",
+            "team": "Borussia Dortmund",
+            "team_type": "club",
+            "verified_overlap": {
+              "start": "2013-05-25",
+              "end": "2013-05-25"
+            },
+            "evidence": [
+              {
+                "url": "https://www.uefa.com/newsfiles/UCL/2013/2009612_LU.pdf",
+                "description": "UEFA Champions League final matchday lineup for 2013-05-25 lists both players in the Borussia Dortmund squad."
+              }
+            ]
+          },
+          {
+            "displayed_player": "Łukasz Piszczek",
+            "team": "Borussia Dortmund",
+            "team_type": "club",
+            "verified_overlap": {
+              "start": "2013-05-25",
+              "end": "2013-05-25"
+            },
+            "evidence": [
+              {
+                "url": "https://www.uefa.com/newsfiles/UCL/2013/2009612_LU.pdf",
+                "description": "UEFA Champions League final matchday lineup for 2013-05-25 lists both players in the Borussia Dortmund squad."
+              }
+            ]
+          },
+          {
+            "displayed_player": "Joshua Kimmich",
+            "team": "FC Bayern München",
+            "team_type": "club",
+            "verified_overlap": {
+              "start": "2020-08-23",
+              "end": "2020-08-23"
+            },
+            "evidence": [
+              {
+                "url": "https://www.uefa.com/newsfiles/UCL/2020/2030150_LU.pdf",
+                "description": "UEFA Champions League final matchday lineup for 2020-08-23 lists both players in the FC Bayern München squad."
+              }
+            ]
+          }
+        ]
+      },
+      "verified_alternative_solutions": [],
+      "alternatives_status": "Alternative solutions have not been exhaustively researched; an empty list does not mean none exist. Accept any independently verified qualifying answer.",
+      "hints": [
+        "The answer shared senior club squads with each displayed player.",
+        "Two of the displayed players shared a squad with the answer at Borussia Dortmund.",
+        "The remaining displayed player shared a squad with the answer at FC Bayern München."
+      ],
+      "game_master": {
+        "prompt": "Name a player who was a senior teammate of all three displayed players.",
+        "reveal": "Robert Lewandowski shared Borussia Dortmund with Neven Subotić and Łukasz Piszczek, and FC Bayern München with Joshua Kimmich.",
+        "adjudication": "Accept any independently verified player other than the displayed players. The alternatives list is not exhaustive."
+      }
+    },
+    {
+      "id": 37,
+      "difficulty": "medium",
+      "difficulty_rationale": "Editorial estimate based on player recognition and a cross-club career connection; not play-tested.",
+      "displayed_players": [
+        "Lionel Messi",
+        "Andrés Iniesta",
+        "Kylian Mbappé"
+      ],
+      "primary_solution": {
+        "player": "Neymar",
+        "connections": [
+          {
+            "displayed_player": "Lionel Messi",
+            "team": "FC Barcelona",
+            "team_type": "club",
+            "verified_overlap": {
+              "start": "2015-06-06",
+              "end": "2015-06-06"
+            },
+            "evidence": [
+              {
+                "url": "https://www.uefa.com/newsfiles/UCL/2015/2015227_FR.pdf",
+                "description": "UEFA Champions League final matchday lineup for 2015-06-06 lists both players in the FC Barcelona squad."
+              }
+            ]
+          },
+          {
+            "displayed_player": "Andrés Iniesta",
+            "team": "FC Barcelona",
+            "team_type": "club",
+            "verified_overlap": {
+              "start": "2015-06-06",
+              "end": "2015-06-06"
+            },
+            "evidence": [
+              {
+                "url": "https://www.uefa.com/newsfiles/UCL/2015/2015227_FR.pdf",
+                "description": "UEFA Champions League final matchday lineup for 2015-06-06 lists both players in the FC Barcelona squad."
+              }
+            ]
+          },
+          {
+            "displayed_player": "Kylian Mbappé",
+            "team": "Paris Saint-Germain",
+            "team_type": "club",
+            "verified_overlap": {
+              "start": "2020-08-23",
+              "end": "2020-08-23"
+            },
+            "evidence": [
+              {
+                "url": "https://www.uefa.com/newsfiles/UCL/2020/2030150_LU.pdf",
+                "description": "UEFA Champions League final matchday lineup for 2020-08-23 lists both players in the Paris Saint-Germain squad."
+              }
+            ]
+          }
+        ]
+      },
+      "verified_alternative_solutions": [],
+      "alternatives_status": "Alternative solutions have not been exhaustively researched; an empty list does not mean none exist. Accept any independently verified qualifying answer.",
+      "hints": [
+        "The answer shared senior club squads with each displayed player.",
+        "Two of the displayed players shared a squad with the answer at FC Barcelona.",
+        "The remaining displayed player shared a squad with the answer at Paris Saint-Germain."
+      ],
+      "game_master": {
+        "prompt": "Name a player who was a senior teammate of all three displayed players.",
+        "reveal": "Neymar shared FC Barcelona with Lionel Messi and Andrés Iniesta, and Paris Saint-Germain with Kylian Mbappé.",
+        "adjudication": "Accept any independently verified player other than the displayed players. The alternatives list is not exhaustive."
+      }
+    },
+    {
+      "id": 38,
+      "difficulty": "medium",
+      "difficulty_rationale": "Editorial estimate based on player recognition and a cross-club career connection; not play-tested.",
+      "displayed_players": [
+        "Sergio Busquets",
+        "Jordi Alba",
+        "Marquinhos"
+      ],
+      "primary_solution": {
+        "player": "Neymar",
+        "connections": [
+          {
+            "displayed_player": "Sergio Busquets",
+            "team": "FC Barcelona",
+            "team_type": "club",
+            "verified_overlap": {
+              "start": "2015-06-06",
+              "end": "2015-06-06"
+            },
+            "evidence": [
+              {
+                "url": "https://www.uefa.com/newsfiles/UCL/2015/2015227_FR.pdf",
+                "description": "UEFA Champions League final matchday lineup for 2015-06-06 lists both players in the FC Barcelona squad."
+              }
+            ]
+          },
+          {
+            "displayed_player": "Jordi Alba",
+            "team": "FC Barcelona",
+            "team_type": "club",
+            "verified_overlap": {
+              "start": "2015-06-06",
+              "end": "2015-06-06"
+            },
+            "evidence": [
+              {
+                "url": "https://www.uefa.com/newsfiles/UCL/2015/2015227_FR.pdf",
+                "description": "UEFA Champions League final matchday lineup for 2015-06-06 lists both players in the FC Barcelona squad."
+              }
+            ]
+          },
+          {
+            "displayed_player": "Marquinhos",
+            "team": "Paris Saint-Germain",
+            "team_type": "club",
+            "verified_overlap": {
+              "start": "2020-08-23",
+              "end": "2020-08-23"
+            },
+            "evidence": [
+              {
+                "url": "https://www.uefa.com/newsfiles/UCL/2020/2030150_LU.pdf",
+                "description": "UEFA Champions League final matchday lineup for 2020-08-23 lists both players in the Paris Saint-Germain squad."
+              }
+            ]
+          }
+        ]
+      },
+      "verified_alternative_solutions": [],
+      "alternatives_status": "Alternative solutions have not been exhaustively researched; an empty list does not mean none exist. Accept any independently verified qualifying answer.",
+      "hints": [
+        "The answer shared senior club squads with each displayed player.",
+        "Two of the displayed players shared a squad with the answer at FC Barcelona.",
+        "The remaining displayed player shared a squad with the answer at Paris Saint-Germain."
+      ],
+      "game_master": {
+        "prompt": "Name a player who was a senior teammate of all three displayed players.",
+        "reveal": "Neymar shared FC Barcelona with Sergio Busquets and Jordi Alba, and Paris Saint-Germain with Marquinhos.",
+        "adjudication": "Accept any independently verified player other than the displayed players. The alternatives list is not exhaustive."
+      }
+    },
+    {
+      "id": 39,
+      "difficulty": "medium",
+      "difficulty_rationale": "Editorial estimate based on player recognition and a cross-club career connection; not play-tested.",
+      "displayed_players": [
+        "Ivan Rakitić",
+        "Gerard Piqué",
+        "Ángel Di María"
+      ],
+      "primary_solution": {
+        "player": "Neymar",
+        "connections": [
+          {
+            "displayed_player": "Ivan Rakitić",
+            "team": "FC Barcelona",
+            "team_type": "club",
+            "verified_overlap": {
+              "start": "2015-06-06",
+              "end": "2015-06-06"
+            },
+            "evidence": [
+              {
+                "url": "https://www.uefa.com/newsfiles/UCL/2015/2015227_FR.pdf",
+                "description": "UEFA Champions League final matchday lineup for 2015-06-06 lists both players in the FC Barcelona squad."
+              }
+            ]
+          },
+          {
+            "displayed_player": "Gerard Piqué",
+            "team": "FC Barcelona",
+            "team_type": "club",
+            "verified_overlap": {
+              "start": "2015-06-06",
+              "end": "2015-06-06"
+            },
+            "evidence": [
+              {
+                "url": "https://www.uefa.com/newsfiles/UCL/2015/2015227_FR.pdf",
+                "description": "UEFA Champions League final matchday lineup for 2015-06-06 lists both players in the FC Barcelona squad."
+              }
+            ]
+          },
+          {
+            "displayed_player": "Ángel Di María",
+            "team": "Paris Saint-Germain",
+            "team_type": "club",
+            "verified_overlap": {
+              "start": "2020-08-23",
+              "end": "2020-08-23"
+            },
+            "evidence": [
+              {
+                "url": "https://www.uefa.com/newsfiles/UCL/2020/2030150_LU.pdf",
+                "description": "UEFA Champions League final matchday lineup for 2020-08-23 lists both players in the Paris Saint-Germain squad."
+              }
+            ]
+          }
+        ]
+      },
+      "verified_alternative_solutions": [],
+      "alternatives_status": "Alternative solutions have not been exhaustively researched; an empty list does not mean none exist. Accept any independently verified qualifying answer.",
+      "hints": [
+        "The answer shared senior club squads with each displayed player.",
+        "Two of the displayed players shared a squad with the answer at FC Barcelona.",
+        "The remaining displayed player shared a squad with the answer at Paris Saint-Germain."
+      ],
+      "game_master": {
+        "prompt": "Name a player who was a senior teammate of all three displayed players.",
+        "reveal": "Neymar shared FC Barcelona with Ivan Rakitić and Gerard Piqué, and Paris Saint-Germain with Ángel Di María.",
+        "adjudication": "Accept any independently verified player other than the displayed players. The alternatives list is not exhaustive."
+      }
+    },
+    {
+      "id": 40,
+      "difficulty": "medium",
+      "difficulty_rationale": "Editorial estimate based on player recognition and a cross-club career connection; not play-tested.",
+      "displayed_players": [
+        "Kylian Mbappé",
+        "Neymar",
+        "N'Golo Kanté"
+      ],
+      "primary_solution": {
+        "player": "Thiago Silva",
+        "connections": [
+          {
+            "displayed_player": "Kylian Mbappé",
+            "team": "Paris Saint-Germain",
+            "team_type": "club",
+            "verified_overlap": {
+              "start": "2020-08-23",
+              "end": "2020-08-23"
+            },
+            "evidence": [
+              {
+                "url": "https://www.uefa.com/newsfiles/UCL/2020/2030150_LU.pdf",
+                "description": "UEFA Champions League final matchday lineup for 2020-08-23 lists both players in the Paris Saint-Germain squad."
+              }
+            ]
+          },
+          {
+            "displayed_player": "Neymar",
+            "team": "Paris Saint-Germain",
+            "team_type": "club",
+            "verified_overlap": {
+              "start": "2020-08-23",
+              "end": "2020-08-23"
+            },
+            "evidence": [
+              {
+                "url": "https://www.uefa.com/newsfiles/UCL/2020/2030150_LU.pdf",
+                "description": "UEFA Champions League final matchday lineup for 2020-08-23 lists both players in the Paris Saint-Germain squad."
+              }
+            ]
+          },
+          {
+            "displayed_player": "N'Golo Kanté",
+            "team": "Chelsea FC",
+            "team_type": "club",
+            "verified_overlap": {
+              "start": "2021-05-29",
+              "end": "2021-05-29"
+            },
+            "evidence": [
+              {
+                "url": "https://www.uefa.com/newsfiles/UCL/2021/2029498_LU.pdf",
+                "description": "UEFA Champions League final matchday lineup for 2021-05-29 lists both players in the Chelsea FC squad."
+              }
+            ]
+          }
+        ]
+      },
+      "verified_alternative_solutions": [],
+      "alternatives_status": "Alternative solutions have not been exhaustively researched; an empty list does not mean none exist. Accept any independently verified qualifying answer.",
+      "hints": [
+        "The answer shared senior club squads with each displayed player.",
+        "Two of the displayed players shared a squad with the answer at Paris Saint-Germain.",
+        "The remaining displayed player shared a squad with the answer at Chelsea FC."
+      ],
+      "game_master": {
+        "prompt": "Name a player who was a senior teammate of all three displayed players.",
+        "reveal": "Thiago Silva shared Paris Saint-Germain with Kylian Mbappé and Neymar, and Chelsea FC with N'Golo Kanté.",
+        "adjudication": "Accept any independently verified player other than the displayed players. The alternatives list is not exhaustive."
+      }
+    },
+    {
+      "id": 41,
+      "difficulty": "medium",
+      "difficulty_rationale": "Editorial estimate based on player recognition and a cross-club career connection; not play-tested.",
+      "displayed_players": [
+        "Marco Verratti",
+        "Marquinhos",
+        "Mason Mount"
+      ],
+      "primary_solution": {
+        "player": "Thiago Silva",
+        "connections": [
+          {
+            "displayed_player": "Marco Verratti",
+            "team": "Paris Saint-Germain",
+            "team_type": "club",
+            "verified_overlap": {
+              "start": "2020-08-23",
+              "end": "2020-08-23"
+            },
+            "evidence": [
+              {
+                "url": "https://www.uefa.com/newsfiles/UCL/2020/2030150_LU.pdf",
+                "description": "UEFA Champions League final matchday lineup for 2020-08-23 lists both players in the Paris Saint-Germain squad."
+              }
+            ]
+          },
+          {
+            "displayed_player": "Marquinhos",
+            "team": "Paris Saint-Germain",
+            "team_type": "club",
+            "verified_overlap": {
+              "start": "2020-08-23",
+              "end": "2020-08-23"
+            },
+            "evidence": [
+              {
+                "url": "https://www.uefa.com/newsfiles/UCL/2020/2030150_LU.pdf",
+                "description": "UEFA Champions League final matchday lineup for 2020-08-23 lists both players in the Paris Saint-Germain squad."
+              }
+            ]
+          },
+          {
+            "displayed_player": "Mason Mount",
+            "team": "Chelsea FC",
+            "team_type": "club",
+            "verified_overlap": {
+              "start": "2021-05-29",
+              "end": "2021-05-29"
+            },
+            "evidence": [
+              {
+                "url": "https://www.uefa.com/newsfiles/UCL/2021/2029498_LU.pdf",
+                "description": "UEFA Champions League final matchday lineup for 2021-05-29 lists both players in the Chelsea FC squad."
+              }
+            ]
+          }
+        ]
+      },
+      "verified_alternative_solutions": [],
+      "alternatives_status": "Alternative solutions have not been exhaustively researched; an empty list does not mean none exist. Accept any independently verified qualifying answer.",
+      "hints": [
+        "The answer shared senior club squads with each displayed player.",
+        "Two of the displayed players shared a squad with the answer at Paris Saint-Germain.",
+        "The remaining displayed player shared a squad with the answer at Chelsea FC."
+      ],
+      "game_master": {
+        "prompt": "Name a player who was a senior teammate of all three displayed players.",
+        "reveal": "Thiago Silva shared Paris Saint-Germain with Marco Verratti and Marquinhos, and Chelsea FC with Mason Mount.",
+        "adjudication": "Accept any independently verified player other than the displayed players. The alternatives list is not exhaustive."
+      }
+    },
+    {
+      "id": 42,
+      "difficulty": "medium",
+      "difficulty_rationale": "Editorial estimate based on player recognition and a cross-club career connection; not play-tested.",
+      "displayed_players": [
+        "Ángel Di María",
+        "Presnel Kimpembe",
+        "Kai Havertz"
+      ],
+      "primary_solution": {
+        "player": "Thiago Silva",
+        "connections": [
+          {
+            "displayed_player": "Ángel Di María",
+            "team": "Paris Saint-Germain",
+            "team_type": "club",
+            "verified_overlap": {
+              "start": "2020-08-23",
+              "end": "2020-08-23"
+            },
+            "evidence": [
+              {
+                "url": "https://www.uefa.com/newsfiles/UCL/2020/2030150_LU.pdf",
+                "description": "UEFA Champions League final matchday lineup for 2020-08-23 lists both players in the Paris Saint-Germain squad."
+              }
+            ]
+          },
+          {
+            "displayed_player": "Presnel Kimpembe",
+            "team": "Paris Saint-Germain",
+            "team_type": "club",
+            "verified_overlap": {
+              "start": "2020-08-23",
+              "end": "2020-08-23"
+            },
+            "evidence": [
+              {
+                "url": "https://www.uefa.com/newsfiles/UCL/2020/2030150_LU.pdf",
+                "description": "UEFA Champions League final matchday lineup for 2020-08-23 lists both players in the Paris Saint-Germain squad."
+              }
+            ]
+          },
+          {
+            "displayed_player": "Kai Havertz",
+            "team": "Chelsea FC",
+            "team_type": "club",
+            "verified_overlap": {
+              "start": "2021-05-29",
+              "end": "2021-05-29"
+            },
+            "evidence": [
+              {
+                "url": "https://www.uefa.com/newsfiles/UCL/2021/2029498_LU.pdf",
+                "description": "UEFA Champions League final matchday lineup for 2021-05-29 lists both players in the Chelsea FC squad."
+              }
+            ]
+          }
+        ]
+      },
+      "verified_alternative_solutions": [],
+      "alternatives_status": "Alternative solutions have not been exhaustively researched; an empty list does not mean none exist. Accept any independently verified qualifying answer.",
+      "hints": [
+        "The answer shared senior club squads with each displayed player.",
+        "Two of the displayed players shared a squad with the answer at Paris Saint-Germain.",
+        "The remaining displayed player shared a squad with the answer at Chelsea FC."
+      ],
+      "game_master": {
+        "prompt": "Name a player who was a senior teammate of all three displayed players.",
+        "reveal": "Thiago Silva shared Paris Saint-Germain with Ángel Di María and Presnel Kimpembe, and Chelsea FC with Kai Havertz.",
+        "adjudication": "Accept any independently verified player other than the displayed players. The alternatives list is not exhaustive."
+      }
+    },
+    {
+      "id": 43,
+      "difficulty": "medium",
+      "difficulty_rationale": "Editorial estimate based on player recognition and a cross-club career connection; not play-tested.",
+      "displayed_players": [
+        "Cristiano Ronaldo",
+        "Sergio Ramos",
+        "Reece James"
+      ],
+      "primary_solution": {
+        "player": "Mateo Kovačić",
+        "connections": [
+          {
+            "displayed_player": "Cristiano Ronaldo",
+            "team": "Real Madrid CF",
+            "team_type": "club",
+            "verified_overlap": {
+              "start": "2018-05-26",
+              "end": "2018-05-26"
+            },
+            "evidence": [
+              {
+                "url": "https://www.uefa.com/newsfiles/UCL/2018/2021711_LU.pdf",
+                "description": "UEFA Champions League final matchday lineup for 2018-05-26 lists both players in the Real Madrid CF squad."
+              }
+            ]
+          },
+          {
+            "displayed_player": "Sergio Ramos",
+            "team": "Real Madrid CF",
+            "team_type": "club",
+            "verified_overlap": {
+              "start": "2018-05-26",
+              "end": "2018-05-26"
+            },
+            "evidence": [
+              {
+                "url": "https://www.uefa.com/newsfiles/UCL/2018/2021711_LU.pdf",
+                "description": "UEFA Champions League final matchday lineup for 2018-05-26 lists both players in the Real Madrid CF squad."
+              }
+            ]
+          },
+          {
+            "displayed_player": "Reece James",
+            "team": "Chelsea FC",
+            "team_type": "club",
+            "verified_overlap": {
+              "start": "2021-05-29",
+              "end": "2021-05-29"
+            },
+            "evidence": [
+              {
+                "url": "https://www.uefa.com/newsfiles/UCL/2021/2029498_LU.pdf",
+                "description": "UEFA Champions League final matchday lineup for 2021-05-29 lists both players in the Chelsea FC squad."
+              }
+            ]
+          }
+        ]
+      },
+      "verified_alternative_solutions": [],
+      "alternatives_status": "Alternative solutions have not been exhaustively researched; an empty list does not mean none exist. Accept any independently verified qualifying answer.",
+      "hints": [
+        "The answer shared senior club squads with each displayed player.",
+        "Two of the displayed players shared a squad with the answer at Real Madrid CF.",
+        "The remaining displayed player shared a squad with the answer at Chelsea FC."
+      ],
+      "game_master": {
+        "prompt": "Name a player who was a senior teammate of all three displayed players.",
+        "reveal": "Mateo Kovačić shared Real Madrid CF with Cristiano Ronaldo and Sergio Ramos, and Chelsea FC with Reece James.",
+        "adjudication": "Accept any independently verified player other than the displayed players. The alternatives list is not exhaustive."
+      }
+    },
+    {
+      "id": 44,
+      "difficulty": "medium",
+      "difficulty_rationale": "Editorial estimate based on player recognition and a cross-club career connection; not play-tested.",
+      "displayed_players": [
+        "Karim Benzema",
+        "Marcelo",
+        "Mason Mount"
+      ],
+      "primary_solution": {
+        "player": "Mateo Kovačić",
+        "connections": [
+          {
+            "displayed_player": "Karim Benzema",
+            "team": "Real Madrid CF",
+            "team_type": "club",
+            "verified_overlap": {
+              "start": "2018-05-26",
+              "end": "2018-05-26"
+            },
+            "evidence": [
+              {
+                "url": "https://www.uefa.com/newsfiles/UCL/2018/2021711_LU.pdf",
+                "description": "UEFA Champions League final matchday lineup for 2018-05-26 lists both players in the Real Madrid CF squad."
+              }
+            ]
+          },
+          {
+            "displayed_player": "Marcelo",
+            "team": "Real Madrid CF",
+            "team_type": "club",
+            "verified_overlap": {
+              "start": "2018-05-26",
+              "end": "2018-05-26"
+            },
+            "evidence": [
+              {
+                "url": "https://www.uefa.com/newsfiles/UCL/2018/2021711_LU.pdf",
+                "description": "UEFA Champions League final matchday lineup for 2018-05-26 lists both players in the Real Madrid CF squad."
+              }
+            ]
+          },
+          {
+            "displayed_player": "Mason Mount",
+            "team": "Chelsea FC",
+            "team_type": "club",
+            "verified_overlap": {
+              "start": "2021-05-29",
+              "end": "2021-05-29"
+            },
+            "evidence": [
+              {
+                "url": "https://www.uefa.com/newsfiles/UCL/2021/2029498_LU.pdf",
+                "description": "UEFA Champions League final matchday lineup for 2021-05-29 lists both players in the Chelsea FC squad."
+              }
+            ]
+          }
+        ]
+      },
+      "verified_alternative_solutions": [],
+      "alternatives_status": "Alternative solutions have not been exhaustively researched; an empty list does not mean none exist. Accept any independently verified qualifying answer.",
+      "hints": [
+        "The answer shared senior club squads with each displayed player.",
+        "Two of the displayed players shared a squad with the answer at Real Madrid CF.",
+        "The remaining displayed player shared a squad with the answer at Chelsea FC."
+      ],
+      "game_master": {
+        "prompt": "Name a player who was a senior teammate of all three displayed players.",
+        "reveal": "Mateo Kovačić shared Real Madrid CF with Karim Benzema and Marcelo, and Chelsea FC with Mason Mount.",
+        "adjudication": "Accept any independently verified player other than the displayed players. The alternatives list is not exhaustive."
+      }
+    },
+    {
+      "id": 45,
+      "difficulty": "medium",
+      "difficulty_rationale": "Editorial estimate based on player recognition and a cross-club career connection; not play-tested.",
+      "displayed_players": [
+        "Raphaël Varane",
+        "Luka Modrić",
+        "N'Golo Kanté"
+      ],
+      "primary_solution": {
+        "player": "Mateo Kovačić",
+        "connections": [
+          {
+            "displayed_player": "Raphaël Varane",
+            "team": "Real Madrid CF",
+            "team_type": "club",
+            "verified_overlap": {
+              "start": "2018-05-26",
+              "end": "2018-05-26"
+            },
+            "evidence": [
+              {
+                "url": "https://www.uefa.com/newsfiles/UCL/2018/2021711_LU.pdf",
+                "description": "UEFA Champions League final matchday lineup for 2018-05-26 lists both players in the Real Madrid CF squad."
+              }
+            ]
+          },
+          {
+            "displayed_player": "Luka Modrić",
+            "team": "Real Madrid CF",
+            "team_type": "club",
+            "verified_overlap": {
+              "start": "2018-05-26",
+              "end": "2018-05-26"
+            },
+            "evidence": [
+              {
+                "url": "https://www.uefa.com/newsfiles/UCL/2018/2021711_LU.pdf",
+                "description": "UEFA Champions League final matchday lineup for 2018-05-26 lists both players in the Real Madrid CF squad."
+              }
+            ]
+          },
+          {
+            "displayed_player": "N'Golo Kanté",
+            "team": "Chelsea FC",
+            "team_type": "club",
+            "verified_overlap": {
+              "start": "2021-05-29",
+              "end": "2021-05-29"
+            },
+            "evidence": [
+              {
+                "url": "https://www.uefa.com/newsfiles/UCL/2021/2029498_LU.pdf",
+                "description": "UEFA Champions League final matchday lineup for 2021-05-29 lists both players in the Chelsea FC squad."
+              }
+            ]
+          }
+        ]
+      },
+      "verified_alternative_solutions": [],
+      "alternatives_status": "Alternative solutions have not been exhaustively researched; an empty list does not mean none exist. Accept any independently verified qualifying answer.",
+      "hints": [
+        "The answer shared senior club squads with each displayed player.",
+        "Two of the displayed players shared a squad with the answer at Real Madrid CF.",
+        "The remaining displayed player shared a squad with the answer at Chelsea FC."
+      ],
+      "game_master": {
+        "prompt": "Name a player who was a senior teammate of all three displayed players.",
+        "reveal": "Mateo Kovačić shared Real Madrid CF with Raphaël Varane and Luka Modrić, and Chelsea FC with N'Golo Kanté.",
+        "adjudication": "Accept any independently verified player other than the displayed players. The alternatives list is not exhaustive."
+      }
+    },
+    {
+      "id": 46,
+      "difficulty": "hard",
+      "difficulty_rationale": "Editorial estimate based on player recognition and a cross-club career connection; not play-tested.",
+      "displayed_players": [
+        "Robert Lewandowski",
+        "Alphonso Davies",
+        "Vinícius Júnior"
+      ],
+      "primary_solution": {
+        "player": "David Alaba",
+        "connections": [
+          {
+            "displayed_player": "Robert Lewandowski",
+            "team": "FC Bayern München",
+            "team_type": "club",
+            "verified_overlap": {
+              "start": "2020-08-23",
+              "end": "2020-08-23"
+            },
+            "evidence": [
+              {
+                "url": "https://www.uefa.com/newsfiles/UCL/2020/2030150_LU.pdf",
+                "description": "UEFA Champions League final matchday lineup for 2020-08-23 lists both players in the FC Bayern München squad."
+              }
+            ]
+          },
+          {
+            "displayed_player": "Alphonso Davies",
+            "team": "FC Bayern München",
+            "team_type": "club",
+            "verified_overlap": {
+              "start": "2020-08-23",
+              "end": "2020-08-23"
+            },
+            "evidence": [
+              {
+                "url": "https://www.uefa.com/newsfiles/UCL/2020/2030150_LU.pdf",
+                "description": "UEFA Champions League final matchday lineup for 2020-08-23 lists both players in the FC Bayern München squad."
+              }
+            ]
+          },
+          {
+            "displayed_player": "Vinícius Júnior",
+            "team": "Real Madrid CF",
+            "team_type": "club",
+            "verified_overlap": {
+              "start": "2022-05-28",
+              "end": "2022-05-28"
+            },
+            "evidence": [
+              {
+                "url": "https://www.uefa.com/newsfiles/UCL/2022/2034586_HR.pdf",
+                "description": "UEFA Champions League final matchday lineup for 2022-05-28 lists both players in the Real Madrid CF squad."
+              }
+            ]
+          }
+        ]
+      },
+      "verified_alternative_solutions": [],
+      "alternatives_status": "Alternative solutions have not been exhaustively researched; an empty list does not mean none exist. Accept any independently verified qualifying answer.",
+      "hints": [
+        "The answer shared senior club squads with each displayed player.",
+        "Two of the displayed players shared a squad with the answer at FC Bayern München.",
+        "The remaining displayed player shared a squad with the answer at Real Madrid CF."
+      ],
+      "game_master": {
+        "prompt": "Name a player who was a senior teammate of all three displayed players.",
+        "reveal": "David Alaba shared FC Bayern München with Robert Lewandowski and Alphonso Davies, and Real Madrid CF with Vinícius Júnior.",
+        "adjudication": "Accept any independently verified player other than the displayed players. The alternatives list is not exhaustive."
+      }
+    },
+    {
+      "id": 47,
+      "difficulty": "hard",
+      "difficulty_rationale": "Editorial estimate based on player recognition and a cross-club career connection; not play-tested.",
+      "displayed_players": [
+        "Serge Gnabry",
+        "Joshua Kimmich",
+        "Federico Valverde"
+      ],
+      "primary_solution": {
+        "player": "David Alaba",
+        "connections": [
+          {
+            "displayed_player": "Serge Gnabry",
+            "team": "FC Bayern München",
+            "team_type": "club",
+            "verified_overlap": {
+              "start": "2020-08-23",
+              "end": "2020-08-23"
+            },
+            "evidence": [
+              {
+                "url": "https://www.uefa.com/newsfiles/UCL/2020/2030150_LU.pdf",
+                "description": "UEFA Champions League final matchday lineup for 2020-08-23 lists both players in the FC Bayern München squad."
+              }
+            ]
+          },
+          {
+            "displayed_player": "Joshua Kimmich",
+            "team": "FC Bayern München",
+            "team_type": "club",
+            "verified_overlap": {
+              "start": "2020-08-23",
+              "end": "2020-08-23"
+            },
+            "evidence": [
+              {
+                "url": "https://www.uefa.com/newsfiles/UCL/2020/2030150_LU.pdf",
+                "description": "UEFA Champions League final matchday lineup for 2020-08-23 lists both players in the FC Bayern München squad."
+              }
+            ]
+          },
+          {
+            "displayed_player": "Federico Valverde",
+            "team": "Real Madrid CF",
+            "team_type": "club",
+            "verified_overlap": {
+              "start": "2022-05-28",
+              "end": "2022-05-28"
+            },
+            "evidence": [
+              {
+                "url": "https://www.uefa.com/newsfiles/UCL/2022/2034586_HR.pdf",
+                "description": "UEFA Champions League final matchday lineup for 2022-05-28 lists both players in the Real Madrid CF squad."
+              }
+            ]
+          }
+        ]
+      },
+      "verified_alternative_solutions": [],
+      "alternatives_status": "Alternative solutions have not been exhaustively researched; an empty list does not mean none exist. Accept any independently verified qualifying answer.",
+      "hints": [
+        "The answer shared senior club squads with each displayed player.",
+        "Two of the displayed players shared a squad with the answer at FC Bayern München.",
+        "The remaining displayed player shared a squad with the answer at Real Madrid CF."
+      ],
+      "game_master": {
+        "prompt": "Name a player who was a senior teammate of all three displayed players.",
+        "reveal": "David Alaba shared FC Bayern München with Serge Gnabry and Joshua Kimmich, and Real Madrid CF with Federico Valverde.",
+        "adjudication": "Accept any independently verified player other than the displayed players. The alternatives list is not exhaustive."
+      }
+    },
+    {
+      "id": 48,
+      "difficulty": "hard",
+      "difficulty_rationale": "Editorial estimate based on player recognition and a cross-club career connection; not play-tested.",
+      "displayed_players": [
+        "Leon Goretzka",
+        "Kingsley Coman",
+        "Karim Benzema"
+      ],
+      "primary_solution": {
+        "player": "David Alaba",
+        "connections": [
+          {
+            "displayed_player": "Leon Goretzka",
+            "team": "FC Bayern München",
+            "team_type": "club",
+            "verified_overlap": {
+              "start": "2020-08-23",
+              "end": "2020-08-23"
+            },
+            "evidence": [
+              {
+                "url": "https://www.uefa.com/newsfiles/UCL/2020/2030150_LU.pdf",
+                "description": "UEFA Champions League final matchday lineup for 2020-08-23 lists both players in the FC Bayern München squad."
+              }
+            ]
+          },
+          {
+            "displayed_player": "Kingsley Coman",
+            "team": "FC Bayern München",
+            "team_type": "club",
+            "verified_overlap": {
+              "start": "2020-08-23",
+              "end": "2020-08-23"
+            },
+            "evidence": [
+              {
+                "url": "https://www.uefa.com/newsfiles/UCL/2020/2030150_LU.pdf",
+                "description": "UEFA Champions League final matchday lineup for 2020-08-23 lists both players in the FC Bayern München squad."
+              }
+            ]
+          },
+          {
+            "displayed_player": "Karim Benzema",
+            "team": "Real Madrid CF",
+            "team_type": "club",
+            "verified_overlap": {
+              "start": "2022-05-28",
+              "end": "2022-05-28"
+            },
+            "evidence": [
+              {
+                "url": "https://www.uefa.com/newsfiles/UCL/2022/2034586_HR.pdf",
+                "description": "UEFA Champions League final matchday lineup for 2022-05-28 lists both players in the Real Madrid CF squad."
+              }
+            ]
+          }
+        ]
+      },
+      "verified_alternative_solutions": [],
+      "alternatives_status": "Alternative solutions have not been exhaustively researched; an empty list does not mean none exist. Accept any independently verified qualifying answer.",
+      "hints": [
+        "The answer shared senior club squads with each displayed player.",
+        "Two of the displayed players shared a squad with the answer at FC Bayern München.",
+        "The remaining displayed player shared a squad with the answer at Real Madrid CF."
+      ],
+      "game_master": {
+        "prompt": "Name a player who was a senior teammate of all three displayed players.",
+        "reveal": "David Alaba shared FC Bayern München with Leon Goretzka and Kingsley Coman, and Real Madrid CF with Karim Benzema.",
+        "adjudication": "Accept any independently verified player other than the displayed players. The alternatives list is not exhaustive."
+      }
+    },
+    {
+      "id": 49,
+      "difficulty": "hard",
+      "difficulty_rationale": "Editorial estimate based on player recognition and a cross-club career connection; not play-tested.",
+      "displayed_players": [
+        "Franck Ribéry",
+        "Arjen Robben",
+        "Cristiano Ronaldo"
+      ],
+      "primary_solution": {
+        "player": "Toni Kroos",
+        "connections": [
+          {
+            "displayed_player": "Franck Ribéry",
+            "team": "FC Bayern München",
+            "team_type": "club",
+            "verified_overlap": {
+              "start": "2012-05-19",
+              "end": "2012-05-19"
+            },
+            "evidence": [
+              {
+                "url": "https://www.uefa.com/newsfiles/UCL/2012/2007693_LU.pdf",
+                "description": "UEFA Champions League final matchday lineup for 2012-05-19 lists both players in the FC Bayern München squad."
+              }
+            ]
+          },
+          {
+            "displayed_player": "Arjen Robben",
+            "team": "FC Bayern München",
+            "team_type": "club",
+            "verified_overlap": {
+              "start": "2012-05-19",
+              "end": "2012-05-19"
+            },
+            "evidence": [
+              {
+                "url": "https://www.uefa.com/newsfiles/UCL/2012/2007693_LU.pdf",
+                "description": "UEFA Champions League final matchday lineup for 2012-05-19 lists both players in the FC Bayern München squad."
+              }
+            ]
+          },
+          {
+            "displayed_player": "Cristiano Ronaldo",
+            "team": "Real Madrid CF",
+            "team_type": "club",
+            "verified_overlap": {
+              "start": "2018-05-26",
+              "end": "2018-05-26"
+            },
+            "evidence": [
+              {
+                "url": "https://www.uefa.com/newsfiles/UCL/2018/2021711_LU.pdf",
+                "description": "UEFA Champions League final matchday lineup for 2018-05-26 lists both players in the Real Madrid CF squad."
+              }
+            ]
+          }
+        ]
+      },
+      "verified_alternative_solutions": [],
+      "alternatives_status": "Alternative solutions have not been exhaustively researched; an empty list does not mean none exist. Accept any independently verified qualifying answer.",
+      "hints": [
+        "The answer shared senior club squads with each displayed player.",
+        "Two of the displayed players shared a squad with the answer at FC Bayern München.",
+        "The remaining displayed player shared a squad with the answer at Real Madrid CF."
+      ],
+      "game_master": {
+        "prompt": "Name a player who was a senior teammate of all three displayed players.",
+        "reveal": "Toni Kroos shared FC Bayern München with Franck Ribéry and Arjen Robben, and Real Madrid CF with Cristiano Ronaldo.",
+        "adjudication": "Accept any independently verified player other than the displayed players. The alternatives list is not exhaustive."
+      }
+    },
+    {
+      "id": 50,
+      "difficulty": "hard",
+      "difficulty_rationale": "Editorial estimate based on player recognition and a cross-club career connection; not play-tested.",
+      "displayed_players": [
+        "Philipp Lahm",
+        "Mario Gomez",
+        "Luka Modrić"
+      ],
+      "primary_solution": {
+        "player": "Toni Kroos",
+        "connections": [
+          {
+            "displayed_player": "Philipp Lahm",
+            "team": "FC Bayern München",
+            "team_type": "club",
+            "verified_overlap": {
+              "start": "2012-05-19",
+              "end": "2012-05-19"
+            },
+            "evidence": [
+              {
+                "url": "https://www.uefa.com/newsfiles/UCL/2012/2007693_LU.pdf",
+                "description": "UEFA Champions League final matchday lineup for 2012-05-19 lists both players in the FC Bayern München squad."
+              }
+            ]
+          },
+          {
+            "displayed_player": "Mario Gomez",
+            "team": "FC Bayern München",
+            "team_type": "club",
+            "verified_overlap": {
+              "start": "2012-05-19",
+              "end": "2012-05-19"
+            },
+            "evidence": [
+              {
+                "url": "https://www.uefa.com/newsfiles/UCL/2012/2007693_LU.pdf",
+                "description": "UEFA Champions League final matchday lineup for 2012-05-19 lists both players in the FC Bayern München squad."
+              }
+            ]
+          },
+          {
+            "displayed_player": "Luka Modrić",
+            "team": "Real Madrid CF",
+            "team_type": "club",
+            "verified_overlap": {
+              "start": "2018-05-26",
+              "end": "2018-05-26"
+            },
+            "evidence": [
+              {
+                "url": "https://www.uefa.com/newsfiles/UCL/2018/2021711_LU.pdf",
+                "description": "UEFA Champions League final matchday lineup for 2018-05-26 lists both players in the Real Madrid CF squad."
+              }
+            ]
+          }
+        ]
+      },
+      "verified_alternative_solutions": [],
+      "alternatives_status": "Alternative solutions have not been exhaustively researched; an empty list does not mean none exist. Accept any independently verified qualifying answer.",
+      "hints": [
+        "The answer shared senior club squads with each displayed player.",
+        "Two of the displayed players shared a squad with the answer at FC Bayern München.",
+        "The remaining displayed player shared a squad with the answer at Real Madrid CF."
+      ],
+      "game_master": {
+        "prompt": "Name a player who was a senior teammate of all three displayed players.",
+        "reveal": "Toni Kroos shared FC Bayern München with Philipp Lahm and Mario Gomez, and Real Madrid CF with Luka Modrić.",
+        "adjudication": "Accept any independently verified player other than the displayed players. The alternatives list is not exhaustive."
+      }
+    },
+    {
+      "id": 51,
+      "difficulty": "hard",
+      "difficulty_rationale": "Editorial estimate based on player recognition and a cross-club career connection; not play-tested.",
+      "displayed_players": [
+        "Bastian Schweinsteiger",
+        "Thomas Müller",
+        "Sergio Ramos"
+      ],
+      "primary_solution": {
+        "player": "Toni Kroos",
+        "connections": [
+          {
+            "displayed_player": "Bastian Schweinsteiger",
+            "team": "FC Bayern München",
+            "team_type": "club",
+            "verified_overlap": {
+              "start": "2012-05-19",
+              "end": "2012-05-19"
+            },
+            "evidence": [
+              {
+                "url": "https://www.uefa.com/newsfiles/UCL/2012/2007693_LU.pdf",
+                "description": "UEFA Champions League final matchday lineup for 2012-05-19 lists both players in the FC Bayern München squad."
+              }
+            ]
+          },
+          {
+            "displayed_player": "Thomas Müller",
+            "team": "FC Bayern München",
+            "team_type": "club",
+            "verified_overlap": {
+              "start": "2012-05-19",
+              "end": "2012-05-19"
+            },
+            "evidence": [
+              {
+                "url": "https://www.uefa.com/newsfiles/UCL/2012/2007693_LU.pdf",
+                "description": "UEFA Champions League final matchday lineup for 2012-05-19 lists both players in the FC Bayern München squad."
+              }
+            ]
+          },
+          {
+            "displayed_player": "Sergio Ramos",
+            "team": "Real Madrid CF",
+            "team_type": "club",
+            "verified_overlap": {
+              "start": "2018-05-26",
+              "end": "2018-05-26"
+            },
+            "evidence": [
+              {
+                "url": "https://www.uefa.com/newsfiles/UCL/2018/2021711_LU.pdf",
+                "description": "UEFA Champions League final matchday lineup for 2018-05-26 lists both players in the Real Madrid CF squad."
+              }
+            ]
+          }
+        ]
+      },
+      "verified_alternative_solutions": [],
+      "alternatives_status": "Alternative solutions have not been exhaustively researched; an empty list does not mean none exist. Accept any independently verified qualifying answer.",
+      "hints": [
+        "The answer shared senior club squads with each displayed player.",
+        "Two of the displayed players shared a squad with the answer at FC Bayern München.",
+        "The remaining displayed player shared a squad with the answer at Real Madrid CF."
+      ],
+      "game_master": {
+        "prompt": "Name a player who was a senior teammate of all three displayed players.",
+        "reveal": "Toni Kroos shared FC Bayern München with Bastian Schweinsteiger and Thomas Müller, and Real Madrid CF with Sergio Ramos.",
+        "adjudication": "Accept any independently verified player other than the displayed players. The alternatives list is not exhaustive."
+      }
+    },
+    {
+      "id": 52,
+      "difficulty": "hard",
+      "difficulty_rationale": "Editorial estimate based on player recognition and a cross-club career connection; not play-tested.",
+      "displayed_players": [
+        "Gianluigi Buffon",
+        "Carlos Tévez",
+        "Joshua Kimmich"
+      ],
+      "primary_solution": {
+        "player": "Kingsley Coman",
+        "connections": [
+          {
+            "displayed_player": "Gianluigi Buffon",
+            "team": "Juventus",
+            "team_type": "club",
+            "verified_overlap": {
+              "start": "2015-06-06",
+              "end": "2015-06-06"
+            },
+            "evidence": [
+              {
+                "url": "https://www.uefa.com/newsfiles/UCL/2015/2015227_FR.pdf",
+                "description": "UEFA Champions League final matchday lineup for 2015-06-06 lists both players in the Juventus squad."
+              }
+            ]
+          },
+          {
+            "displayed_player": "Carlos Tévez",
+            "team": "Juventus",
+            "team_type": "club",
+            "verified_overlap": {
+              "start": "2015-06-06",
+              "end": "2015-06-06"
+            },
+            "evidence": [
+              {
+                "url": "https://www.uefa.com/newsfiles/UCL/2015/2015227_FR.pdf",
+                "description": "UEFA Champions League final matchday lineup for 2015-06-06 lists both players in the Juventus squad."
+              }
+            ]
+          },
+          {
+            "displayed_player": "Joshua Kimmich",
+            "team": "FC Bayern München",
+            "team_type": "club",
+            "verified_overlap": {
+              "start": "2020-08-23",
+              "end": "2020-08-23"
+            },
+            "evidence": [
+              {
+                "url": "https://www.uefa.com/newsfiles/UCL/2020/2030150_LU.pdf",
+                "description": "UEFA Champions League final matchday lineup for 2020-08-23 lists both players in the FC Bayern München squad."
+              }
+            ]
+          }
+        ]
+      },
+      "verified_alternative_solutions": [],
+      "alternatives_status": "Alternative solutions have not been exhaustively researched; an empty list does not mean none exist. Accept any independently verified qualifying answer.",
+      "hints": [
+        "The answer shared senior club squads with each displayed player.",
+        "Two of the displayed players shared a squad with the answer at Juventus.",
+        "The remaining displayed player shared a squad with the answer at FC Bayern München."
+      ],
+      "game_master": {
+        "prompt": "Name a player who was a senior teammate of all three displayed players.",
+        "reveal": "Kingsley Coman shared Juventus with Gianluigi Buffon and Carlos Tévez, and FC Bayern München with Joshua Kimmich.",
+        "adjudication": "Accept any independently verified player other than the displayed players. The alternatives list is not exhaustive."
+      }
+    },
+    {
+      "id": 53,
+      "difficulty": "hard",
+      "difficulty_rationale": "Editorial estimate based on player recognition and a cross-club career connection; not play-tested.",
+      "displayed_players": [
+        "Andrea Pirlo",
+        "Paul Pogba",
+        "Alphonso Davies"
+      ],
+      "primary_solution": {
+        "player": "Kingsley Coman",
+        "connections": [
+          {
+            "displayed_player": "Andrea Pirlo",
+            "team": "Juventus",
+            "team_type": "club",
+            "verified_overlap": {
+              "start": "2015-06-06",
+              "end": "2015-06-06"
+            },
+            "evidence": [
+              {
+                "url": "https://www.uefa.com/newsfiles/UCL/2015/2015227_FR.pdf",
+                "description": "UEFA Champions League final matchday lineup for 2015-06-06 lists both players in the Juventus squad."
+              }
+            ]
+          },
+          {
+            "displayed_player": "Paul Pogba",
+            "team": "Juventus",
+            "team_type": "club",
+            "verified_overlap": {
+              "start": "2015-06-06",
+              "end": "2015-06-06"
+            },
+            "evidence": [
+              {
+                "url": "https://www.uefa.com/newsfiles/UCL/2015/2015227_FR.pdf",
+                "description": "UEFA Champions League final matchday lineup for 2015-06-06 lists both players in the Juventus squad."
+              }
+            ]
+          },
+          {
+            "displayed_player": "Alphonso Davies",
+            "team": "FC Bayern München",
+            "team_type": "club",
+            "verified_overlap": {
+              "start": "2020-08-23",
+              "end": "2020-08-23"
+            },
+            "evidence": [
+              {
+                "url": "https://www.uefa.com/newsfiles/UCL/2020/2030150_LU.pdf",
+                "description": "UEFA Champions League final matchday lineup for 2020-08-23 lists both players in the FC Bayern München squad."
+              }
+            ]
+          }
+        ]
+      },
+      "verified_alternative_solutions": [],
+      "alternatives_status": "Alternative solutions have not been exhaustively researched; an empty list does not mean none exist. Accept any independently verified qualifying answer.",
+      "hints": [
+        "The answer shared senior club squads with each displayed player.",
+        "Two of the displayed players shared a squad with the answer at Juventus.",
+        "The remaining displayed player shared a squad with the answer at FC Bayern München."
+      ],
+      "game_master": {
+        "prompt": "Name a player who was a senior teammate of all three displayed players.",
+        "reveal": "Kingsley Coman shared Juventus with Andrea Pirlo and Paul Pogba, and FC Bayern München with Alphonso Davies.",
+        "adjudication": "Accept any independently verified player other than the displayed players. The alternatives list is not exhaustive."
+      }
+    },
+    {
+      "id": 54,
+      "difficulty": "hard",
+      "difficulty_rationale": "Editorial estimate based on player recognition and a cross-club career connection; not play-tested.",
+      "displayed_players": [
+        "Patrice Evra",
+        "Leonardo Bonucci",
+        "Robert Lewandowski"
+      ],
+      "primary_solution": {
+        "player": "Kingsley Coman",
+        "connections": [
+          {
+            "displayed_player": "Patrice Evra",
+            "team": "Juventus",
+            "team_type": "club",
+            "verified_overlap": {
+              "start": "2015-06-06",
+              "end": "2015-06-06"
+            },
+            "evidence": [
+              {
+                "url": "https://www.uefa.com/newsfiles/UCL/2015/2015227_FR.pdf",
+                "description": "UEFA Champions League final matchday lineup for 2015-06-06 lists both players in the Juventus squad."
+              }
+            ]
+          },
+          {
+            "displayed_player": "Leonardo Bonucci",
+            "team": "Juventus",
+            "team_type": "club",
+            "verified_overlap": {
+              "start": "2015-06-06",
+              "end": "2015-06-06"
+            },
+            "evidence": [
+              {
+                "url": "https://www.uefa.com/newsfiles/UCL/2015/2015227_FR.pdf",
+                "description": "UEFA Champions League final matchday lineup for 2015-06-06 lists both players in the Juventus squad."
+              }
+            ]
+          },
+          {
+            "displayed_player": "Robert Lewandowski",
+            "team": "FC Bayern München",
+            "team_type": "club",
+            "verified_overlap": {
+              "start": "2020-08-23",
+              "end": "2020-08-23"
+            },
+            "evidence": [
+              {
+                "url": "https://www.uefa.com/newsfiles/UCL/2020/2030150_LU.pdf",
+                "description": "UEFA Champions League final matchday lineup for 2020-08-23 lists both players in the FC Bayern München squad."
+              }
+            ]
+          }
+        ]
+      },
+      "verified_alternative_solutions": [],
+      "alternatives_status": "Alternative solutions have not been exhaustively researched; an empty list does not mean none exist. Accept any independently verified qualifying answer.",
+      "hints": [
+        "The answer shared senior club squads with each displayed player.",
+        "Two of the displayed players shared a squad with the answer at Juventus.",
+        "The remaining displayed player shared a squad with the answer at FC Bayern München."
+      ],
+      "game_master": {
+        "prompt": "Name a player who was a senior teammate of all three displayed players.",
+        "reveal": "Kingsley Coman shared Juventus with Patrice Evra and Leonardo Bonucci, and FC Bayern München with Robert Lewandowski.",
+        "adjudication": "Accept any independently verified player other than the displayed players. The alternatives list is not exhaustive."
+      }
+    },
+    {
+      "id": 55,
+      "difficulty": "hard",
+      "difficulty_rationale": "Editorial estimate based on player recognition and a cross-club career connection; not play-tested.",
+      "displayed_players": [
+        "Robert Lewandowski",
+        "Joshua Kimmich",
+        "Mohamed Salah"
+      ],
+      "primary_solution": {
+        "player": "Thiago Alcántara",
+        "connections": [
+          {
+            "displayed_player": "Robert Lewandowski",
+            "team": "FC Bayern München",
+            "team_type": "club",
+            "verified_overlap": {
+              "start": "2020-08-23",
+              "end": "2020-08-23"
+            },
+            "evidence": [
+              {
+                "url": "https://www.uefa.com/newsfiles/UCL/2020/2030150_LU.pdf",
+                "description": "UEFA Champions League final matchday lineup for 2020-08-23 lists both players in the FC Bayern München squad."
+              }
+            ]
+          },
+          {
+            "displayed_player": "Joshua Kimmich",
+            "team": "FC Bayern München",
+            "team_type": "club",
+            "verified_overlap": {
+              "start": "2020-08-23",
+              "end": "2020-08-23"
+            },
+            "evidence": [
+              {
+                "url": "https://www.uefa.com/newsfiles/UCL/2020/2030150_LU.pdf",
+                "description": "UEFA Champions League final matchday lineup for 2020-08-23 lists both players in the FC Bayern München squad."
+              }
+            ]
+          },
+          {
+            "displayed_player": "Mohamed Salah",
+            "team": "Liverpool FC",
+            "team_type": "club",
+            "verified_overlap": {
+              "start": "2022-05-28",
+              "end": "2022-05-28"
+            },
+            "evidence": [
+              {
+                "url": "https://www.uefa.com/newsfiles/UCL/2022/2034586_HR.pdf",
+                "description": "UEFA Champions League final matchday lineup for 2022-05-28 lists both players in the Liverpool FC squad."
+              }
+            ]
+          }
+        ]
+      },
+      "verified_alternative_solutions": [],
+      "alternatives_status": "Alternative solutions have not been exhaustively researched; an empty list does not mean none exist. Accept any independently verified qualifying answer.",
+      "hints": [
+        "The answer shared senior club squads with each displayed player.",
+        "Two of the displayed players shared a squad with the answer at FC Bayern München.",
+        "The remaining displayed player shared a squad with the answer at Liverpool FC."
+      ],
+      "game_master": {
+        "prompt": "Name a player who was a senior teammate of all three displayed players.",
+        "reveal": "Thiago Alcántara shared FC Bayern München with Robert Lewandowski and Joshua Kimmich, and Liverpool FC with Mohamed Salah.",
+        "adjudication": "Accept any independently verified player other than the displayed players. The alternatives list is not exhaustive."
+      }
+    },
+    {
+      "id": 56,
+      "difficulty": "hard",
+      "difficulty_rationale": "Editorial estimate based on player recognition and a cross-club career connection; not play-tested.",
+      "displayed_players": [
+        "Alphonso Davies",
+        "Serge Gnabry",
+        "Virgil van Dijk"
+      ],
+      "primary_solution": {
+        "player": "Thiago Alcántara",
+        "connections": [
+          {
+            "displayed_player": "Alphonso Davies",
+            "team": "FC Bayern München",
+            "team_type": "club",
+            "verified_overlap": {
+              "start": "2020-08-23",
+              "end": "2020-08-23"
+            },
+            "evidence": [
+              {
+                "url": "https://www.uefa.com/newsfiles/UCL/2020/2030150_LU.pdf",
+                "description": "UEFA Champions League final matchday lineup for 2020-08-23 lists both players in the FC Bayern München squad."
+              }
+            ]
+          },
+          {
+            "displayed_player": "Serge Gnabry",
+            "team": "FC Bayern München",
+            "team_type": "club",
+            "verified_overlap": {
+              "start": "2020-08-23",
+              "end": "2020-08-23"
+            },
+            "evidence": [
+              {
+                "url": "https://www.uefa.com/newsfiles/UCL/2020/2030150_LU.pdf",
+                "description": "UEFA Champions League final matchday lineup for 2020-08-23 lists both players in the FC Bayern München squad."
+              }
+            ]
+          },
+          {
+            "displayed_player": "Virgil van Dijk",
+            "team": "Liverpool FC",
+            "team_type": "club",
+            "verified_overlap": {
+              "start": "2022-05-28",
+              "end": "2022-05-28"
+            },
+            "evidence": [
+              {
+                "url": "https://www.uefa.com/newsfiles/UCL/2022/2034586_HR.pdf",
+                "description": "UEFA Champions League final matchday lineup for 2022-05-28 lists both players in the Liverpool FC squad."
+              }
+            ]
+          }
+        ]
+      },
+      "verified_alternative_solutions": [],
+      "alternatives_status": "Alternative solutions have not been exhaustively researched; an empty list does not mean none exist. Accept any independently verified qualifying answer.",
+      "hints": [
+        "The answer shared senior club squads with each displayed player.",
+        "Two of the displayed players shared a squad with the answer at FC Bayern München.",
+        "The remaining displayed player shared a squad with the answer at Liverpool FC."
+      ],
+      "game_master": {
+        "prompt": "Name a player who was a senior teammate of all three displayed players.",
+        "reveal": "Thiago Alcántara shared FC Bayern München with Alphonso Davies and Serge Gnabry, and Liverpool FC with Virgil van Dijk.",
+        "adjudication": "Accept any independently verified player other than the displayed players. The alternatives list is not exhaustive."
+      }
+    },
+    {
+      "id": 57,
+      "difficulty": "hard",
+      "difficulty_rationale": "Editorial estimate based on player recognition and a cross-club career connection; not play-tested.",
+      "displayed_players": [
+        "Leon Goretzka",
+        "Kingsley Coman",
+        "Sadio Mané"
+      ],
+      "primary_solution": {
+        "player": "Thiago Alcántara",
+        "connections": [
+          {
+            "displayed_player": "Leon Goretzka",
+            "team": "FC Bayern München",
+            "team_type": "club",
+            "verified_overlap": {
+              "start": "2020-08-23",
+              "end": "2020-08-23"
+            },
+            "evidence": [
+              {
+                "url": "https://www.uefa.com/newsfiles/UCL/2020/2030150_LU.pdf",
+                "description": "UEFA Champions League final matchday lineup for 2020-08-23 lists both players in the FC Bayern München squad."
+              }
+            ]
+          },
+          {
+            "displayed_player": "Kingsley Coman",
+            "team": "FC Bayern München",
+            "team_type": "club",
+            "verified_overlap": {
+              "start": "2020-08-23",
+              "end": "2020-08-23"
+            },
+            "evidence": [
+              {
+                "url": "https://www.uefa.com/newsfiles/UCL/2020/2030150_LU.pdf",
+                "description": "UEFA Champions League final matchday lineup for 2020-08-23 lists both players in the FC Bayern München squad."
+              }
+            ]
+          },
+          {
+            "displayed_player": "Sadio Mané",
+            "team": "Liverpool FC",
+            "team_type": "club",
+            "verified_overlap": {
+              "start": "2022-05-28",
+              "end": "2022-05-28"
+            },
+            "evidence": [
+              {
+                "url": "https://www.uefa.com/newsfiles/UCL/2022/2034586_HR.pdf",
+                "description": "UEFA Champions League final matchday lineup for 2022-05-28 lists both players in the Liverpool FC squad."
+              }
+            ]
+          }
+        ]
+      },
+      "verified_alternative_solutions": [],
+      "alternatives_status": "Alternative solutions have not been exhaustively researched; an empty list does not mean none exist. Accept any independently verified qualifying answer.",
+      "hints": [
+        "The answer shared senior club squads with each displayed player.",
+        "Two of the displayed players shared a squad with the answer at FC Bayern München.",
+        "The remaining displayed player shared a squad with the answer at Liverpool FC."
+      ],
+      "game_master": {
+        "prompt": "Name a player who was a senior teammate of all three displayed players.",
+        "reveal": "Thiago Alcántara shared FC Bayern München with Leon Goretzka and Kingsley Coman, and Liverpool FC with Sadio Mané.",
+        "adjudication": "Accept any independently verified player other than the displayed players. The alternatives list is not exhaustive."
+      }
+    },
+    {
+      "id": 58,
+      "difficulty": "hard",
+      "difficulty_rationale": "Editorial estimate based on player recognition and a cross-club career connection; not play-tested.",
+      "displayed_players": [
+        "Cristiano Ronaldo",
+        "Sergio Ramos",
+        "Kylian Mbappé"
+      ],
+      "primary_solution": {
+        "player": "Keylor Navas",
+        "connections": [
+          {
+            "displayed_player": "Cristiano Ronaldo",
+            "team": "Real Madrid CF",
+            "team_type": "club",
+            "verified_overlap": {
+              "start": "2018-05-26",
+              "end": "2018-05-26"
+            },
+            "evidence": [
+              {
+                "url": "https://www.uefa.com/newsfiles/UCL/2018/2021711_LU.pdf",
+                "description": "UEFA Champions League final matchday lineup for 2018-05-26 lists both players in the Real Madrid CF squad."
+              }
+            ]
+          },
+          {
+            "displayed_player": "Sergio Ramos",
+            "team": "Real Madrid CF",
+            "team_type": "club",
+            "verified_overlap": {
+              "start": "2018-05-26",
+              "end": "2018-05-26"
+            },
+            "evidence": [
+              {
+                "url": "https://www.uefa.com/newsfiles/UCL/2018/2021711_LU.pdf",
+                "description": "UEFA Champions League final matchday lineup for 2018-05-26 lists both players in the Real Madrid CF squad."
+              }
+            ]
+          },
+          {
+            "displayed_player": "Kylian Mbappé",
+            "team": "Paris Saint-Germain",
+            "team_type": "club",
+            "verified_overlap": {
+              "start": "2020-08-23",
+              "end": "2020-08-23"
+            },
+            "evidence": [
+              {
+                "url": "https://www.uefa.com/newsfiles/UCL/2020/2030150_LU.pdf",
+                "description": "UEFA Champions League final matchday lineup for 2020-08-23 lists both players in the Paris Saint-Germain squad."
+              }
+            ]
+          }
+        ]
+      },
+      "verified_alternative_solutions": [],
+      "alternatives_status": "Alternative solutions have not been exhaustively researched; an empty list does not mean none exist. Accept any independently verified qualifying answer.",
+      "hints": [
+        "The answer shared senior club squads with each displayed player.",
+        "Two of the displayed players shared a squad with the answer at Real Madrid CF.",
+        "The remaining displayed player shared a squad with the answer at Paris Saint-Germain."
+      ],
+      "game_master": {
+        "prompt": "Name a player who was a senior teammate of all three displayed players.",
+        "reveal": "Keylor Navas shared Real Madrid CF with Cristiano Ronaldo and Sergio Ramos, and Paris Saint-Germain with Kylian Mbappé.",
+        "adjudication": "Accept any independently verified player other than the displayed players. The alternatives list is not exhaustive."
+      }
+    },
+    {
+      "id": 59,
+      "difficulty": "hard",
+      "difficulty_rationale": "Editorial estimate based on player recognition and a cross-club career connection; not play-tested.",
+      "displayed_players": [
+        "Luka Modrić",
+        "Karim Benzema",
+        "Neymar"
+      ],
+      "primary_solution": {
+        "player": "Keylor Navas",
+        "connections": [
+          {
+            "displayed_player": "Luka Modrić",
+            "team": "Real Madrid CF",
+            "team_type": "club",
+            "verified_overlap": {
+              "start": "2018-05-26",
+              "end": "2018-05-26"
+            },
+            "evidence": [
+              {
+                "url": "https://www.uefa.com/newsfiles/UCL/2018/2021711_LU.pdf",
+                "description": "UEFA Champions League final matchday lineup for 2018-05-26 lists both players in the Real Madrid CF squad."
+              }
+            ]
+          },
+          {
+            "displayed_player": "Karim Benzema",
+            "team": "Real Madrid CF",
+            "team_type": "club",
+            "verified_overlap": {
+              "start": "2018-05-26",
+              "end": "2018-05-26"
+            },
+            "evidence": [
+              {
+                "url": "https://www.uefa.com/newsfiles/UCL/2018/2021711_LU.pdf",
+                "description": "UEFA Champions League final matchday lineup for 2018-05-26 lists both players in the Real Madrid CF squad."
+              }
+            ]
+          },
+          {
+            "displayed_player": "Neymar",
+            "team": "Paris Saint-Germain",
+            "team_type": "club",
+            "verified_overlap": {
+              "start": "2020-08-23",
+              "end": "2020-08-23"
+            },
+            "evidence": [
+              {
+                "url": "https://www.uefa.com/newsfiles/UCL/2020/2030150_LU.pdf",
+                "description": "UEFA Champions League final matchday lineup for 2020-08-23 lists both players in the Paris Saint-Germain squad."
+              }
+            ]
+          }
+        ]
+      },
+      "verified_alternative_solutions": [],
+      "alternatives_status": "Alternative solutions have not been exhaustively researched; an empty list does not mean none exist. Accept any independently verified qualifying answer.",
+      "hints": [
+        "The answer shared senior club squads with each displayed player.",
+        "Two of the displayed players shared a squad with the answer at Real Madrid CF.",
+        "The remaining displayed player shared a squad with the answer at Paris Saint-Germain."
+      ],
+      "game_master": {
+        "prompt": "Name a player who was a senior teammate of all three displayed players.",
+        "reveal": "Keylor Navas shared Real Madrid CF with Luka Modrić and Karim Benzema, and Paris Saint-Germain with Neymar.",
+        "adjudication": "Accept any independently verified player other than the displayed players. The alternatives list is not exhaustive."
+      }
+    },
+    {
+      "id": 60,
+      "difficulty": "hard",
+      "difficulty_rationale": "Editorial estimate based on player recognition and a cross-club career connection; not play-tested.",
+      "displayed_players": [
+        "Marcelo",
+        "Raphaël Varane",
+        "Marquinhos"
+      ],
+      "primary_solution": {
+        "player": "Keylor Navas",
+        "connections": [
+          {
+            "displayed_player": "Marcelo",
+            "team": "Real Madrid CF",
+            "team_type": "club",
+            "verified_overlap": {
+              "start": "2018-05-26",
+              "end": "2018-05-26"
+            },
+            "evidence": [
+              {
+                "url": "https://www.uefa.com/newsfiles/UCL/2018/2021711_LU.pdf",
+                "description": "UEFA Champions League final matchday lineup for 2018-05-26 lists both players in the Real Madrid CF squad."
+              }
+            ]
+          },
+          {
+            "displayed_player": "Raphaël Varane",
+            "team": "Real Madrid CF",
+            "team_type": "club",
+            "verified_overlap": {
+              "start": "2018-05-26",
+              "end": "2018-05-26"
+            },
+            "evidence": [
+              {
+                "url": "https://www.uefa.com/newsfiles/UCL/2018/2021711_LU.pdf",
+                "description": "UEFA Champions League final matchday lineup for 2018-05-26 lists both players in the Real Madrid CF squad."
+              }
+            ]
+          },
+          {
+            "displayed_player": "Marquinhos",
+            "team": "Paris Saint-Germain",
+            "team_type": "club",
+            "verified_overlap": {
+              "start": "2020-08-23",
+              "end": "2020-08-23"
+            },
+            "evidence": [
+              {
+                "url": "https://www.uefa.com/newsfiles/UCL/2020/2030150_LU.pdf",
+                "description": "UEFA Champions League final matchday lineup for 2020-08-23 lists both players in the Paris Saint-Germain squad."
+              }
+            ]
+          }
+        ]
+      },
+      "verified_alternative_solutions": [],
+      "alternatives_status": "Alternative solutions have not been exhaustively researched; an empty list does not mean none exist. Accept any independently verified qualifying answer.",
+      "hints": [
+        "The answer shared senior club squads with each displayed player.",
+        "Two of the displayed players shared a squad with the answer at Real Madrid CF.",
+        "The remaining displayed player shared a squad with the answer at Paris Saint-Germain."
+      ],
+      "game_master": {
+        "prompt": "Name a player who was a senior teammate of all three displayed players.",
+        "reveal": "Keylor Navas shared Real Madrid CF with Marcelo and Raphaël Varane, and Paris Saint-Germain with Marquinhos.",
+        "adjudication": "Accept any independently verified player other than the displayed players. The alternatives list is not exhaustive."
+      }
     }
   ],
   "validation": {
     "complete": false,
-    "round_count": 30,
+    "round_count": 60,
     "difficulty_counts": {
       "easy": 10,
-      "medium": 10,
-      "hard": 10
+      "medium": 25,
+      "hard": 25
     },
     "egypt_featured_rounds": 6,
-    "note": "Evidence checks use single dated matchday witnesses, not complete overlap intervals. Alternative search is selective, not exhaustive. Difficulty labels are preliminary editorial estimates and the set uses repeated roster bridges; it has not been play-tested. These limitations mean the original full-period and comprehensive known-alternative requirements remain unfinished."
+    "note": "Research draft: evidence checks use single dated matchday witnesses, not complete overlap intervals. Alternatives have not been exhaustively researched, including rounds 31–60. Difficulty labels are preliminary editorial estimates; the set uses repeated answers and roster bridges and has not been play-tested. Rounds 13 and 14 contain hints that incorrectly describe an FC Barcelona club connection as international. Structural validation does not independently verify historical claims."
   }
 }
