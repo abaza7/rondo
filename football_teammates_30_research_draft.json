@@ -1,0 +1,2997 @@
+{
+  "status": "research_draft_30_rounds",
+  "requested_round_count": 30,
+  "verified_round_count": 30,
+  "scope": "Men's senior club and national teams, 2000 onward",
+  "teammate_definition": "Overlapping membership of a senior roster; playing together is not required.",
+  "answer_policy": "Accept any other player whose qualifying overlaps with all three displayed players can be verified. The alternatives list is not exhaustive.",
+  "period_note": "Each overlap below is a verified single-date witness, not a claim about the full overlap period.",
+  "rounds": [
+    {
+      "id": 1,
+      "difficulty": "easy",
+      "difficulty_rationale": "The primary answer is globally recognizable and the two club connections are a famous attacking partnership.",
+      "displayed_players": [
+        "Sadio Mané",
+        "Roberto Firmino",
+        "Mohamed Elneny"
+      ],
+      "primary_solution": {
+        "player": "Mohamed Salah",
+        "connections": [
+          {
+            "displayed_player": "Sadio Mané",
+            "team": "Liverpool FC",
+            "team_type": "club",
+            "verified_overlap": {
+              "start": "2017-08-15",
+              "end": "2017-08-15"
+            },
+            "evidence": [
+              {
+                "url": "https://www.uefa.com/newsfiles/UCL/2018/2021575_LU.pdf",
+                "description": "UEFA official match lineup lists both players for Liverpool against Hoffenheim on 15 August 2017."
+              }
+            ]
+          },
+          {
+            "displayed_player": "Roberto Firmino",
+            "team": "Liverpool FC",
+            "team_type": "club",
+            "verified_overlap": {
+              "start": "2017-08-15",
+              "end": "2017-08-15"
+            },
+            "evidence": [
+              {
+                "url": "https://www.uefa.com/newsfiles/UCL/2018/2021575_LU.pdf",
+                "description": "UEFA official match lineup lists both players for Liverpool against Hoffenheim on 15 August 2017."
+              }
+            ]
+          },
+          {
+            "displayed_player": "Mohamed Elneny",
+            "team": "Egypt men's senior national team",
+            "team_type": "national",
+            "verified_overlap": {
+              "start": "2018-06-19",
+              "end": "2018-06-19"
+            },
+            "evidence": [
+              {
+                "url": "https://www.irishtimes.com/sport/soccer/international/mohamed-salah-starts-for-egypt-against-russia-1.3536538",
+                "description": "Match-day lineup lists Salah and Elneny for Egypt against Russia on 19 June 2018."
+              }
+            ]
+          }
+        ]
+      },
+      "verified_alternative_solutions": [],
+      "alternatives_status": "Not exhaustively researched; an empty list does not mean that no alternative exists.",
+      "hints": [
+        "Two of the displayed players shared a club attack with the answer.",
+        "The club connection is Liverpool; the third connection is through Egypt's senior national team.",
+        "The answer appeared with Elneny for Egypt against Russia at the 2018 World Cup."
+      ],
+      "game_master": {
+        "prompt": "Name a player who was a senior teammate of all three displayed players.",
+        "reveal": "Mohamed Salah: Liverpool with Mané and Firmino; Egypt with Elneny.",
+        "adjudication": "Accept any other independently verified answer. A player cannot be their own teammate."
+      }
+    },
+    {
+      "id": 2,
+      "difficulty": "easy",
+      "difficulty_rationale": "The primary answer and the Liverpool players are widely recognizable; only two team contexts are needed.",
+      "displayed_players": [
+        "Sadio Mané",
+        "Jordan Henderson",
+        "Mohamed Elneny"
+      ],
+      "primary_solution": {
+        "player": "Mohamed Salah",
+        "connections": [
+          {
+            "displayed_player": "Sadio Mané",
+            "team": "Liverpool FC",
+            "team_type": "club",
+            "verified_overlap": {
+              "start": "2019-06-01",
+              "end": "2019-06-01"
+            },
+            "evidence": [
+              {
+                "url": "https://www.uefa.com/newsfiles/UCL/2019/2025486_LU.pdf",
+                "description": "UEFA official match lineup, Champions League final, 1 June 2019."
+              }
+            ]
+          },
+          {
+            "displayed_player": "Jordan Henderson",
+            "team": "Liverpool FC",
+            "team_type": "club",
+            "verified_overlap": {
+              "start": "2019-06-01",
+              "end": "2019-06-01"
+            },
+            "evidence": [
+              {
+                "url": "https://www.uefa.com/newsfiles/UCL/2019/2025486_LU.pdf",
+                "description": "UEFA official match lineup, Champions League final, 1 June 2019."
+              }
+            ]
+          },
+          {
+            "displayed_player": "Mohamed Elneny",
+            "team": "Egypt men’s senior national team",
+            "team_type": "national",
+            "verified_overlap": {
+              "start": "2018-06-19",
+              "end": "2018-06-19"
+            },
+            "evidence": [
+              {
+                "url": "https://www.irishtimes.com/sport/soccer/international/mohamed-salah-starts-for-egypt-against-russia-1.3536538",
+                "description": "Egypt starting XI against Russia on 19 June 2018."
+              }
+            ]
+          }
+        ]
+      },
+      "verified_alternative_solutions": [],
+      "alternatives_status": "Non-exhaustive; accept any independently verified alternative.",
+      "hints": [
+        "Two displayed players shared a club squad with the answer.",
+        "The club connections are with Liverpool; the remaining connection is international.",
+        "The answer played for Egypt against Russia at the 2018 World Cup."
+      ],
+      "game_master": {
+        "prompt": "Name a player who was a senior teammate of all three displayed players.",
+        "reveal": "Mohamed Salah shared Liverpool with Sadio Mané and Jordan Henderson, and Egypt men’s senior national team with Mohamed Elneny.",
+        "adjudication": "Accept any additional answer verified against all three; a displayed player cannot be their own teammate."
+      }
+    },
+    {
+      "id": 3,
+      "difficulty": "easy",
+      "difficulty_rationale": "The primary answer and the Liverpool players are widely recognizable; only two team contexts are needed.",
+      "displayed_players": [
+        "Roberto Firmino",
+        "Virgil van Dijk",
+        "Ahmed Hegazi"
+      ],
+      "primary_solution": {
+        "player": "Mohamed Salah",
+        "connections": [
+          {
+            "displayed_player": "Roberto Firmino",
+            "team": "Liverpool FC",
+            "team_type": "club",
+            "verified_overlap": {
+              "start": "2019-06-01",
+              "end": "2019-06-01"
+            },
+            "evidence": [
+              {
+                "url": "https://www.uefa.com/newsfiles/UCL/2019/2025486_LU.pdf",
+                "description": "UEFA official match lineup, Champions League final, 1 June 2019."
+              }
+            ]
+          },
+          {
+            "displayed_player": "Virgil van Dijk",
+            "team": "Liverpool FC",
+            "team_type": "club",
+            "verified_overlap": {
+              "start": "2019-06-01",
+              "end": "2019-06-01"
+            },
+            "evidence": [
+              {
+                "url": "https://www.uefa.com/newsfiles/UCL/2019/2025486_LU.pdf",
+                "description": "UEFA official match lineup, Champions League final, 1 June 2019."
+              }
+            ]
+          },
+          {
+            "displayed_player": "Ahmed Hegazi",
+            "team": "Egypt men’s senior national team",
+            "team_type": "national",
+            "verified_overlap": {
+              "start": "2018-06-19",
+              "end": "2018-06-19"
+            },
+            "evidence": [
+              {
+                "url": "https://www.irishtimes.com/sport/soccer/international/mohamed-salah-starts-for-egypt-against-russia-1.3536538",
+                "description": "Egypt starting XI against Russia on 19 June 2018."
+              }
+            ]
+          }
+        ]
+      },
+      "verified_alternative_solutions": [],
+      "alternatives_status": "Non-exhaustive; accept any independently verified alternative.",
+      "hints": [
+        "Two displayed players shared a club squad with the answer.",
+        "The club connections are with Liverpool; the remaining connection is international.",
+        "The answer played for Egypt against Russia at the 2018 World Cup."
+      ],
+      "game_master": {
+        "prompt": "Name a player who was a senior teammate of all three displayed players.",
+        "reveal": "Mohamed Salah shared Liverpool with Roberto Firmino and Virgil van Dijk, and Egypt men’s senior national team with Ahmed Hegazi.",
+        "adjudication": "Accept any additional answer verified against all three; a displayed player cannot be their own teammate."
+      }
+    },
+    {
+      "id": 4,
+      "difficulty": "easy",
+      "difficulty_rationale": "The primary answer and the Liverpool players are widely recognizable; only two team contexts are needed.",
+      "displayed_players": [
+        "Alisson Becker",
+        "Andrew Robertson",
+        "Trézéguet"
+      ],
+      "primary_solution": {
+        "player": "Mohamed Salah",
+        "connections": [
+          {
+            "displayed_player": "Alisson Becker",
+            "team": "Liverpool FC",
+            "team_type": "club",
+            "verified_overlap": {
+              "start": "2019-06-01",
+              "end": "2019-06-01"
+            },
+            "evidence": [
+              {
+                "url": "https://www.uefa.com/newsfiles/UCL/2019/2025486_LU.pdf",
+                "description": "UEFA official match lineup, Champions League final, 1 June 2019."
+              }
+            ]
+          },
+          {
+            "displayed_player": "Andrew Robertson",
+            "team": "Liverpool FC",
+            "team_type": "club",
+            "verified_overlap": {
+              "start": "2019-06-01",
+              "end": "2019-06-01"
+            },
+            "evidence": [
+              {
+                "url": "https://www.uefa.com/newsfiles/UCL/2019/2025486_LU.pdf",
+                "description": "UEFA official match lineup, Champions League final, 1 June 2019."
+              }
+            ]
+          },
+          {
+            "displayed_player": "Trézéguet",
+            "team": "Egypt men’s senior national team",
+            "team_type": "national",
+            "verified_overlap": {
+              "start": "2018-06-19",
+              "end": "2018-06-19"
+            },
+            "evidence": [
+              {
+                "url": "https://www.irishtimes.com/sport/soccer/international/mohamed-salah-starts-for-egypt-against-russia-1.3536538",
+                "description": "Egypt starting XI against Russia on 19 June 2018."
+              }
+            ]
+          }
+        ]
+      },
+      "verified_alternative_solutions": [],
+      "alternatives_status": "Non-exhaustive; accept any independently verified alternative.",
+      "hints": [
+        "Two displayed players shared a club squad with the answer.",
+        "The club connections are with Liverpool; the remaining connection is international.",
+        "The answer played for Egypt against Russia at the 2018 World Cup."
+      ],
+      "game_master": {
+        "prompt": "Name a player who was a senior teammate of all three displayed players.",
+        "reveal": "Mohamed Salah shared Liverpool with Alisson Becker and Andrew Robertson, and Egypt men’s senior national team with Trézéguet.",
+        "adjudication": "Accept any additional answer verified against all three; a displayed player cannot be their own teammate."
+      }
+    },
+    {
+      "id": 5,
+      "difficulty": "easy",
+      "difficulty_rationale": "The primary answer and the Liverpool players are widely recognizable; only two team contexts are needed.",
+      "displayed_players": [
+        "Jordan Henderson",
+        "Georginio Wijnaldum",
+        "Tarek Hamed"
+      ],
+      "primary_solution": {
+        "player": "Mohamed Salah",
+        "connections": [
+          {
+            "displayed_player": "Jordan Henderson",
+            "team": "Liverpool FC",
+            "team_type": "club",
+            "verified_overlap": {
+              "start": "2019-06-01",
+              "end": "2019-06-01"
+            },
+            "evidence": [
+              {
+                "url": "https://www.uefa.com/newsfiles/UCL/2019/2025486_LU.pdf",
+                "description": "UEFA official match lineup, Champions League final, 1 June 2019."
+              }
+            ]
+          },
+          {
+            "displayed_player": "Georginio Wijnaldum",
+            "team": "Liverpool FC",
+            "team_type": "club",
+            "verified_overlap": {
+              "start": "2019-06-01",
+              "end": "2019-06-01"
+            },
+            "evidence": [
+              {
+                "url": "https://www.uefa.com/newsfiles/UCL/2019/2025486_LU.pdf",
+                "description": "UEFA official match lineup, Champions League final, 1 June 2019."
+              }
+            ]
+          },
+          {
+            "displayed_player": "Tarek Hamed",
+            "team": "Egypt men’s senior national team",
+            "team_type": "national",
+            "verified_overlap": {
+              "start": "2018-06-19",
+              "end": "2018-06-19"
+            },
+            "evidence": [
+              {
+                "url": "https://www.irishtimes.com/sport/soccer/international/mohamed-salah-starts-for-egypt-against-russia-1.3536538",
+                "description": "Egypt starting XI against Russia on 19 June 2018."
+              }
+            ]
+          }
+        ]
+      },
+      "verified_alternative_solutions": [],
+      "alternatives_status": "Non-exhaustive; accept any independently verified alternative.",
+      "hints": [
+        "Two displayed players shared a club squad with the answer.",
+        "The club connections are with Liverpool; the remaining connection is international.",
+        "The answer played for Egypt against Russia at the 2018 World Cup."
+      ],
+      "game_master": {
+        "prompt": "Name a player who was a senior teammate of all three displayed players.",
+        "reveal": "Mohamed Salah shared Liverpool with Jordan Henderson and Georginio Wijnaldum, and Egypt men’s senior national team with Tarek Hamed.",
+        "adjudication": "Accept any additional answer verified against all three; a displayed player cannot be their own teammate."
+      }
+    },
+    {
+      "id": 6,
+      "difficulty": "easy",
+      "difficulty_rationale": "The primary answer and the Liverpool players are widely recognizable; only two team contexts are needed.",
+      "displayed_players": [
+        "Sadio Mané",
+        "Mohamed Salah",
+        "Neymar"
+      ],
+      "primary_solution": {
+        "player": "Roberto Firmino",
+        "connections": [
+          {
+            "displayed_player": "Sadio Mané",
+            "team": "Liverpool FC",
+            "team_type": "club",
+            "verified_overlap": {
+              "start": "2019-06-01",
+              "end": "2019-06-01"
+            },
+            "evidence": [
+              {
+                "url": "https://www.uefa.com/newsfiles/UCL/2019/2025486_LU.pdf",
+                "description": "UEFA official match lineup, Champions League final, 1 June 2019."
+              }
+            ]
+          },
+          {
+            "displayed_player": "Mohamed Salah",
+            "team": "Liverpool FC",
+            "team_type": "club",
+            "verified_overlap": {
+              "start": "2019-06-01",
+              "end": "2019-06-01"
+            },
+            "evidence": [
+              {
+                "url": "https://www.uefa.com/newsfiles/UCL/2019/2025486_LU.pdf",
+                "description": "UEFA official match lineup, Champions League final, 1 June 2019."
+              }
+            ]
+          },
+          {
+            "displayed_player": "Neymar",
+            "team": "Brazil men’s senior national team",
+            "team_type": "national",
+            "verified_overlap": {
+              "start": "2018-07-06",
+              "end": "2018-07-06"
+            },
+            "evidence": [
+              {
+                "url": "https://inside.fifa.com/tournaments/mens/worldcup/2018russia/news/worldcupathome-brazil-belgium-russia-2018-3072226",
+                "description": "FIFA lists Brazil squad for the quarter-final against Belgium on 6 July 2018."
+              }
+            ]
+          }
+        ]
+      },
+      "verified_alternative_solutions": [
+        {
+          "player": "Alisson Becker",
+          "connections": [
+            {
+              "displayed_player": "Sadio Mané",
+              "team": "Liverpool FC",
+              "team_type": "club",
+              "verified_overlap": {
+                "start": "2019-06-01",
+                "end": "2019-06-01"
+              },
+              "evidence": [
+                {
+                  "url": "https://www.uefa.com/newsfiles/UCL/2019/2025486_LU.pdf",
+                  "description": "UEFA official match lineup, Champions League final, 1 June 2019."
+                }
+              ]
+            },
+            {
+              "displayed_player": "Mohamed Salah",
+              "team": "Liverpool FC",
+              "team_type": "club",
+              "verified_overlap": {
+                "start": "2019-06-01",
+                "end": "2019-06-01"
+              },
+              "evidence": [
+                {
+                  "url": "https://www.uefa.com/newsfiles/UCL/2019/2025486_LU.pdf",
+                  "description": "UEFA official match lineup, Champions League final, 1 June 2019."
+                }
+              ]
+            },
+            {
+              "displayed_player": "Neymar",
+              "team": "Brazil men’s senior national team",
+              "team_type": "national",
+              "verified_overlap": {
+                "start": "2018-07-06",
+                "end": "2018-07-06"
+              },
+              "evidence": [
+                {
+                  "url": "https://inside.fifa.com/tournaments/mens/worldcup/2018russia/news/worldcupathome-brazil-belgium-russia-2018-3072226",
+                  "description": "FIFA lists Brazil squad for the quarter-final against Belgium on 6 July 2018."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "player": "Philippe Coutinho",
+          "connections": [
+            {
+              "displayed_player": "Sadio Mané",
+              "team": "Liverpool FC",
+              "team_type": "club",
+              "verified_overlap": {
+                "start": "2017-12-06",
+                "end": "2017-12-06"
+              },
+              "evidence": [
+                {
+                  "url": "https://www.liverpoolfc.com/news/first-team/283245-report-coutinho-hits-hat-trick-as-reds-net-seven-v-spartak",
+                  "description": "Liverpool report names Coutinho, Salah and Mané in its attack on 6 December 2017."
+                }
+              ]
+            },
+            {
+              "displayed_player": "Mohamed Salah",
+              "team": "Liverpool FC",
+              "team_type": "club",
+              "verified_overlap": {
+                "start": "2017-12-06",
+                "end": "2017-12-06"
+              },
+              "evidence": [
+                {
+                  "url": "https://www.liverpoolfc.com/news/first-team/283245-report-coutinho-hits-hat-trick-as-reds-net-seven-v-spartak",
+                  "description": "Liverpool report names Coutinho, Salah and Mané in its attack on 6 December 2017."
+                }
+              ]
+            },
+            {
+              "displayed_player": "Neymar",
+              "team": "Brazil men’s senior national team",
+              "team_type": "national",
+              "verified_overlap": {
+                "start": "2018-07-06",
+                "end": "2018-07-06"
+              },
+              "evidence": [
+                {
+                  "url": "https://inside.fifa.com/tournaments/mens/worldcup/2018russia/news/worldcupathome-brazil-belgium-russia-2018-3072226",
+                  "description": "FIFA lists Brazil squad for the quarter-final against Belgium on 6 July 2018."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "alternatives_status": "Non-exhaustive; accept any independently verified alternative.",
+      "hints": [
+        "Two displayed players shared a club squad with the answer.",
+        "The club connections are with Liverpool; the remaining connection is international.",
+        "The answer was in Brazil’s matchday squad against Belgium at the 2018 World Cup."
+      ],
+      "game_master": {
+        "prompt": "Name a player who was a senior teammate of all three displayed players.",
+        "reveal": "Roberto Firmino shared Liverpool with Sadio Mané and Mohamed Salah, and Brazil men’s senior national team with Neymar.",
+        "adjudication": "Accept any additional answer verified against all three; a displayed player cannot be their own teammate."
+      }
+    },
+    {
+      "id": 7,
+      "difficulty": "easy",
+      "difficulty_rationale": "Editorial estimate based on recognition of the displayed players and the need to connect club and national-team careers; not play-tested.",
+      "displayed_players": [
+        "Lionel Messi",
+        "Luis Suárez",
+        "Philippe Coutinho"
+      ],
+      "primary_solution": {
+        "player": "Neymar",
+        "connections": [
+          {
+            "displayed_player": "Lionel Messi",
+            "team": "FC Barcelona",
+            "team_type": "club",
+            "verified_overlap": {
+              "start": "2015-06-06",
+              "end": "2015-06-06"
+            },
+            "evidence": [
+              {
+                "url": "https://www.uefa.com/MultimediaFiles/Download/uefaorg/General/02/27/33/33/2273333_DOWNLOAD.pdf",
+                "description": "UEFA 2015 Champions League final team list; the matchday roster establishes both players were present."
+              }
+            ]
+          },
+          {
+            "displayed_player": "Luis Suárez",
+            "team": "FC Barcelona",
+            "team_type": "club",
+            "verified_overlap": {
+              "start": "2015-06-06",
+              "end": "2015-06-06"
+            },
+            "evidence": [
+              {
+                "url": "https://www.uefa.com/MultimediaFiles/Download/uefaorg/General/02/27/33/33/2273333_DOWNLOAD.pdf",
+                "description": "UEFA 2015 Champions League final team list; the matchday roster establishes both players were present."
+              }
+            ]
+          },
+          {
+            "displayed_player": "Philippe Coutinho",
+            "team": "Brazil men’s senior national team",
+            "team_type": "national",
+            "verified_overlap": {
+              "start": "2018-07-06",
+              "end": "2018-07-06"
+            },
+            "evidence": [
+              {
+                "url": "https://inside.fifa.com/tournaments/mens/worldcup/2018russia/news/worldcupathome-brazil-belgium-russia-2018-3072226",
+                "description": "FIFA Brazil v Belgium World Cup lineup; the matchday roster establishes both players were present."
+              }
+            ]
+          }
+        ]
+      },
+      "verified_alternative_solutions": [],
+      "alternatives_status": "Only selected verified alternatives are listed; the list is not exhaustive. Accept any separately verified solution.",
+      "hints": [
+        "Two of the displayed players were club teammates of the answer; the other was an international teammate.",
+        "The club connection is FC Barcelona.",
+        "The international connection is Brazil men’s senior national team, on 2018-07-06."
+      ],
+      "game_master": {
+        "prompt": "Name a player who was a senior teammate of all three displayed players.",
+        "reveal": "Neymar links the first two via FC Barcelona and the third via Brazil men’s senior national team.",
+        "adjudication": "Accept every independently verified qualifying player other than the three displayed players. The listed alternatives are not exhaustive."
+      }
+    },
+    {
+      "id": 8,
+      "difficulty": "easy",
+      "difficulty_rationale": "Editorial estimate based on recognition of the displayed players and the need to connect club and national-team careers; not play-tested.",
+      "displayed_players": [
+        "Andrés Iniesta",
+        "Jordi Alba",
+        "Gabriel Jesus"
+      ],
+      "primary_solution": {
+        "player": "Neymar",
+        "connections": [
+          {
+            "displayed_player": "Andrés Iniesta",
+            "team": "FC Barcelona",
+            "team_type": "club",
+            "verified_overlap": {
+              "start": "2015-06-06",
+              "end": "2015-06-06"
+            },
+            "evidence": [
+              {
+                "url": "https://www.uefa.com/MultimediaFiles/Download/uefaorg/General/02/27/33/33/2273333_DOWNLOAD.pdf",
+                "description": "UEFA 2015 Champions League final team list; the matchday roster establishes both players were present."
+              }
+            ]
+          },
+          {
+            "displayed_player": "Jordi Alba",
+            "team": "FC Barcelona",
+            "team_type": "club",
+            "verified_overlap": {
+              "start": "2015-06-06",
+              "end": "2015-06-06"
+            },
+            "evidence": [
+              {
+                "url": "https://www.uefa.com/MultimediaFiles/Download/uefaorg/General/02/27/33/33/2273333_DOWNLOAD.pdf",
+                "description": "UEFA 2015 Champions League final team list; the matchday roster establishes both players were present."
+              }
+            ]
+          },
+          {
+            "displayed_player": "Gabriel Jesus",
+            "team": "Brazil men’s senior national team",
+            "team_type": "national",
+            "verified_overlap": {
+              "start": "2018-07-06",
+              "end": "2018-07-06"
+            },
+            "evidence": [
+              {
+                "url": "https://inside.fifa.com/tournaments/mens/worldcup/2018russia/news/worldcupathome-brazil-belgium-russia-2018-3072226",
+                "description": "FIFA Brazil v Belgium World Cup lineup; the matchday roster establishes both players were present."
+              }
+            ]
+          }
+        ]
+      },
+      "verified_alternative_solutions": [],
+      "alternatives_status": "Only selected verified alternatives are listed; the list is not exhaustive. Accept any separately verified solution.",
+      "hints": [
+        "Two of the displayed players were club teammates of the answer; the other was an international teammate.",
+        "The club connection is FC Barcelona.",
+        "The international connection is Brazil men’s senior national team, on 2018-07-06."
+      ],
+      "game_master": {
+        "prompt": "Name a player who was a senior teammate of all three displayed players.",
+        "reveal": "Neymar links the first two via FC Barcelona and the third via Brazil men’s senior national team.",
+        "adjudication": "Accept every independently verified qualifying player other than the three displayed players. The listed alternatives are not exhaustive."
+      }
+    },
+    {
+      "id": 9,
+      "difficulty": "easy",
+      "difficulty_rationale": "Editorial estimate based on recognition of the displayed players and the need to connect club and national-team careers; not play-tested.",
+      "displayed_players": [
+        "Neymar",
+        "Andrés Iniesta",
+        "Ángel Di María"
+      ],
+      "primary_solution": {
+        "player": "Lionel Messi",
+        "connections": [
+          {
+            "displayed_player": "Neymar",
+            "team": "FC Barcelona",
+            "team_type": "club",
+            "verified_overlap": {
+              "start": "2015-06-06",
+              "end": "2015-06-06"
+            },
+            "evidence": [
+              {
+                "url": "https://www.uefa.com/MultimediaFiles/Download/uefaorg/General/02/27/33/33/2273333_DOWNLOAD.pdf",
+                "description": "UEFA 2015 Champions League final team list; the matchday roster establishes both players were present."
+              }
+            ]
+          },
+          {
+            "displayed_player": "Andrés Iniesta",
+            "team": "FC Barcelona",
+            "team_type": "club",
+            "verified_overlap": {
+              "start": "2015-06-06",
+              "end": "2015-06-06"
+            },
+            "evidence": [
+              {
+                "url": "https://www.uefa.com/MultimediaFiles/Download/uefaorg/General/02/27/33/33/2273333_DOWNLOAD.pdf",
+                "description": "UEFA 2015 Champions League final team list; the matchday roster establishes both players were present."
+              }
+            ]
+          },
+          {
+            "displayed_player": "Ángel Di María",
+            "team": "Argentina men’s senior national team",
+            "team_type": "national",
+            "verified_overlap": {
+              "start": "2018-06-26",
+              "end": "2018-06-26"
+            },
+            "evidence": [
+              {
+                "url": "https://970universal.com/wp-content/uploads/2018/06/eng-39-0626-nga-arg-fulltimepdf-2970673.pdf",
+                "description": "FIFA Argentina v Nigeria World Cup match report; the matchday roster establishes both players were present."
+              }
+            ]
+          }
+        ]
+      },
+      "verified_alternative_solutions": [
+        {
+          "player": "Javier Mascherano",
+          "connections": [
+            {
+              "displayed_player": "Neymar",
+              "team": "FC Barcelona",
+              "team_type": "club",
+              "verified_overlap": {
+                "start": "2015-06-06",
+                "end": "2015-06-06"
+              },
+              "evidence": [
+                {
+                  "url": "https://www.uefa.com/MultimediaFiles/Download/uefaorg/General/02/27/33/33/2273333_DOWNLOAD.pdf",
+                  "description": "UEFA 2015 Champions League final team list; the matchday roster establishes both players were present."
+                }
+              ]
+            },
+            {
+              "displayed_player": "Andrés Iniesta",
+              "team": "FC Barcelona",
+              "team_type": "club",
+              "verified_overlap": {
+                "start": "2015-06-06",
+                "end": "2015-06-06"
+              },
+              "evidence": [
+                {
+                  "url": "https://www.uefa.com/MultimediaFiles/Download/uefaorg/General/02/27/33/33/2273333_DOWNLOAD.pdf",
+                  "description": "UEFA 2015 Champions League final team list; the matchday roster establishes both players were present."
+                }
+              ]
+            },
+            {
+              "displayed_player": "Ángel Di María",
+              "team": "Argentina men’s senior national team",
+              "team_type": "national",
+              "verified_overlap": {
+                "start": "2018-06-26",
+                "end": "2018-06-26"
+              },
+              "evidence": [
+                {
+                  "url": "https://970universal.com/wp-content/uploads/2018/06/eng-39-0626-nga-arg-fulltimepdf-2970673.pdf",
+                  "description": "FIFA Argentina v Nigeria World Cup match report; the matchday roster establishes both players were present."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "alternatives_status": "Only selected verified alternatives are listed; the list is not exhaustive. Accept any separately verified solution.",
+      "hints": [
+        "Two of the displayed players were club teammates of the answer; the other was an international teammate.",
+        "The club connection is FC Barcelona.",
+        "The international connection is Argentina men’s senior national team, on 2018-06-26."
+      ],
+      "game_master": {
+        "prompt": "Name a player who was a senior teammate of all three displayed players.",
+        "reveal": "Lionel Messi links the first two via FC Barcelona and the third via Argentina men’s senior national team.",
+        "adjudication": "Accept every independently verified qualifying player other than the three displayed players. The listed alternatives are not exhaustive."
+      }
+    },
+    {
+      "id": 10,
+      "difficulty": "easy",
+      "difficulty_rationale": "Editorial estimate based on recognition of the displayed players and the need to connect club and national-team careers; not play-tested.",
+      "displayed_players": [
+        "Luis Suárez",
+        "Ivan Rakitić",
+        "Gonzalo Higuaín"
+      ],
+      "primary_solution": {
+        "player": "Lionel Messi",
+        "connections": [
+          {
+            "displayed_player": "Luis Suárez",
+            "team": "FC Barcelona",
+            "team_type": "club",
+            "verified_overlap": {
+              "start": "2015-06-06",
+              "end": "2015-06-06"
+            },
+            "evidence": [
+              {
+                "url": "https://www.uefa.com/MultimediaFiles/Download/uefaorg/General/02/27/33/33/2273333_DOWNLOAD.pdf",
+                "description": "UEFA 2015 Champions League final team list; the matchday roster establishes both players were present."
+              }
+            ]
+          },
+          {
+            "displayed_player": "Ivan Rakitić",
+            "team": "FC Barcelona",
+            "team_type": "club",
+            "verified_overlap": {
+              "start": "2015-06-06",
+              "end": "2015-06-06"
+            },
+            "evidence": [
+              {
+                "url": "https://www.uefa.com/MultimediaFiles/Download/uefaorg/General/02/27/33/33/2273333_DOWNLOAD.pdf",
+                "description": "UEFA 2015 Champions League final team list; the matchday roster establishes both players were present."
+              }
+            ]
+          },
+          {
+            "displayed_player": "Gonzalo Higuaín",
+            "team": "Argentina men’s senior national team",
+            "team_type": "national",
+            "verified_overlap": {
+              "start": "2018-06-26",
+              "end": "2018-06-26"
+            },
+            "evidence": [
+              {
+                "url": "https://970universal.com/wp-content/uploads/2018/06/eng-39-0626-nga-arg-fulltimepdf-2970673.pdf",
+                "description": "FIFA Argentina v Nigeria World Cup match report; the matchday roster establishes both players were present."
+              }
+            ]
+          }
+        ]
+      },
+      "verified_alternative_solutions": [
+        {
+          "player": "Javier Mascherano",
+          "connections": [
+            {
+              "displayed_player": "Luis Suárez",
+              "team": "FC Barcelona",
+              "team_type": "club",
+              "verified_overlap": {
+                "start": "2015-06-06",
+                "end": "2015-06-06"
+              },
+              "evidence": [
+                {
+                  "url": "https://www.uefa.com/MultimediaFiles/Download/uefaorg/General/02/27/33/33/2273333_DOWNLOAD.pdf",
+                  "description": "UEFA 2015 Champions League final team list; the matchday roster establishes both players were present."
+                }
+              ]
+            },
+            {
+              "displayed_player": "Ivan Rakitić",
+              "team": "FC Barcelona",
+              "team_type": "club",
+              "verified_overlap": {
+                "start": "2015-06-06",
+                "end": "2015-06-06"
+              },
+              "evidence": [
+                {
+                  "url": "https://www.uefa.com/MultimediaFiles/Download/uefaorg/General/02/27/33/33/2273333_DOWNLOAD.pdf",
+                  "description": "UEFA 2015 Champions League final team list; the matchday roster establishes both players were present."
+                }
+              ]
+            },
+            {
+              "displayed_player": "Gonzalo Higuaín",
+              "team": "Argentina men’s senior national team",
+              "team_type": "national",
+              "verified_overlap": {
+                "start": "2018-06-26",
+                "end": "2018-06-26"
+              },
+              "evidence": [
+                {
+                  "url": "https://970universal.com/wp-content/uploads/2018/06/eng-39-0626-nga-arg-fulltimepdf-2970673.pdf",
+                  "description": "FIFA Argentina v Nigeria World Cup match report; the matchday roster establishes both players were present."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "alternatives_status": "Only selected verified alternatives are listed; the list is not exhaustive. Accept any separately verified solution.",
+      "hints": [
+        "Two of the displayed players were club teammates of the answer; the other was an international teammate.",
+        "The club connection is FC Barcelona.",
+        "The international connection is Argentina men’s senior national team, on 2018-06-26."
+      ],
+      "game_master": {
+        "prompt": "Name a player who was a senior teammate of all three displayed players.",
+        "reveal": "Lionel Messi links the first two via FC Barcelona and the third via Argentina men’s senior national team.",
+        "adjudication": "Accept every independently verified qualifying player other than the three displayed players. The listed alternatives are not exhaustive."
+      }
+    },
+    {
+      "id": 11,
+      "difficulty": "medium",
+      "difficulty_rationale": "Editorial estimate based on recognition of the displayed players and the need to connect club and national-team careers; not play-tested.",
+      "displayed_players": [
+        "Neymar",
+        "Sergio Busquets",
+        "Luka Modrić"
+      ],
+      "primary_solution": {
+        "player": "Ivan Rakitić",
+        "connections": [
+          {
+            "displayed_player": "Neymar",
+            "team": "FC Barcelona",
+            "team_type": "club",
+            "verified_overlap": {
+              "start": "2015-06-06",
+              "end": "2015-06-06"
+            },
+            "evidence": [
+              {
+                "url": "https://www.uefa.com/MultimediaFiles/Download/uefaorg/General/02/27/33/33/2273333_DOWNLOAD.pdf",
+                "description": "UEFA 2015 Champions League final team list; the matchday roster establishes both players were present."
+              }
+            ]
+          },
+          {
+            "displayed_player": "Sergio Busquets",
+            "team": "FC Barcelona",
+            "team_type": "club",
+            "verified_overlap": {
+              "start": "2015-06-06",
+              "end": "2015-06-06"
+            },
+            "evidence": [
+              {
+                "url": "https://www.uefa.com/MultimediaFiles/Download/uefaorg/General/02/27/33/33/2273333_DOWNLOAD.pdf",
+                "description": "UEFA 2015 Champions League final team list; the matchday roster establishes both players were present."
+              }
+            ]
+          },
+          {
+            "displayed_player": "Luka Modrić",
+            "team": "Croatia men’s senior national team",
+            "team_type": "national",
+            "verified_overlap": {
+              "start": "2018-07-15",
+              "end": "2018-07-15"
+            },
+            "evidence": [
+              {
+                "url": "https://www.sportsmole.co.uk/football/france/world-cup/team-news/france-croatia-as-expected-for-wc-final_330666.html",
+                "description": "Croatia World Cup final matchday squad; the matchday roster establishes both players were present."
+              }
+            ]
+          }
+        ]
+      },
+      "verified_alternative_solutions": [],
+      "alternatives_status": "Only selected verified alternatives are listed; the list is not exhaustive. Accept any separately verified solution.",
+      "hints": [
+        "Two of the displayed players were club teammates of the answer; the other was an international teammate.",
+        "The club connection is FC Barcelona.",
+        "The international connection is Croatia men’s senior national team, on 2018-07-15."
+      ],
+      "game_master": {
+        "prompt": "Name a player who was a senior teammate of all three displayed players.",
+        "reveal": "Ivan Rakitić links the first two via FC Barcelona and the third via Croatia men’s senior national team.",
+        "adjudication": "Accept every independently verified qualifying player other than the three displayed players. The listed alternatives are not exhaustive."
+      }
+    },
+    {
+      "id": 12,
+      "difficulty": "medium",
+      "difficulty_rationale": "Editorial estimate based on recognition of the displayed players and the need to connect club and national-team careers; not play-tested.",
+      "displayed_players": [
+        "Jordi Alba",
+        "Dani Alves",
+        "Mario Mandžukić"
+      ],
+      "primary_solution": {
+        "player": "Ivan Rakitić",
+        "connections": [
+          {
+            "displayed_player": "Jordi Alba",
+            "team": "FC Barcelona",
+            "team_type": "club",
+            "verified_overlap": {
+              "start": "2015-06-06",
+              "end": "2015-06-06"
+            },
+            "evidence": [
+              {
+                "url": "https://www.uefa.com/MultimediaFiles/Download/uefaorg/General/02/27/33/33/2273333_DOWNLOAD.pdf",
+                "description": "UEFA 2015 Champions League final team list; the matchday roster establishes both players were present."
+              }
+            ]
+          },
+          {
+            "displayed_player": "Dani Alves",
+            "team": "FC Barcelona",
+            "team_type": "club",
+            "verified_overlap": {
+              "start": "2015-06-06",
+              "end": "2015-06-06"
+            },
+            "evidence": [
+              {
+                "url": "https://www.uefa.com/MultimediaFiles/Download/uefaorg/General/02/27/33/33/2273333_DOWNLOAD.pdf",
+                "description": "UEFA 2015 Champions League final team list; the matchday roster establishes both players were present."
+              }
+            ]
+          },
+          {
+            "displayed_player": "Mario Mandžukić",
+            "team": "Croatia men’s senior national team",
+            "team_type": "national",
+            "verified_overlap": {
+              "start": "2018-07-15",
+              "end": "2018-07-15"
+            },
+            "evidence": [
+              {
+                "url": "https://www.sportsmole.co.uk/football/france/world-cup/team-news/france-croatia-as-expected-for-wc-final_330666.html",
+                "description": "Croatia World Cup final matchday squad; the matchday roster establishes both players were present."
+              }
+            ]
+          }
+        ]
+      },
+      "verified_alternative_solutions": [],
+      "alternatives_status": "Only selected verified alternatives are listed; the list is not exhaustive. Accept any separately verified solution.",
+      "hints": [
+        "Two of the displayed players were club teammates of the answer; the other was an international teammate.",
+        "The club connection is FC Barcelona.",
+        "The international connection is Croatia men’s senior national team, on 2018-07-15."
+      ],
+      "game_master": {
+        "prompt": "Name a player who was a senior teammate of all three displayed players.",
+        "reveal": "Ivan Rakitić links the first two via FC Barcelona and the third via Croatia men’s senior national team.",
+        "adjudication": "Accept every independently verified qualifying player other than the three displayed players. The listed alternatives are not exhaustive."
+      }
+    },
+    {
+      "id": 13,
+      "difficulty": "medium",
+      "difficulty_rationale": "Editorial estimate based on recognition of the displayed players and the need to connect club and national-team careers; not play-tested.",
+      "displayed_players": [
+        "Steven Gerrard",
+        "Raheem Sterling",
+        "Lionel Messi"
+      ],
+      "primary_solution": {
+        "player": "Luis Suárez",
+        "connections": [
+          {
+            "displayed_player": "Steven Gerrard",
+            "team": "Liverpool FC",
+            "team_type": "club",
+            "verified_overlap": {
+              "start": "2014-03-30",
+              "end": "2014-03-30"
+            },
+            "evidence": [
+              {
+                "url": "https://www.tottenhamhotspur.com/news/1045062/liverpool-4-0-spurs-match-gallery",
+                "description": "Match report and team list, Liverpool v Tottenham; the matchday roster establishes both players were present."
+              }
+            ]
+          },
+          {
+            "displayed_player": "Raheem Sterling",
+            "team": "Liverpool FC",
+            "team_type": "club",
+            "verified_overlap": {
+              "start": "2014-03-30",
+              "end": "2014-03-30"
+            },
+            "evidence": [
+              {
+                "url": "https://www.tottenhamhotspur.com/news/1045062/liverpool-4-0-spurs-match-gallery",
+                "description": "Match report and team list, Liverpool v Tottenham; the matchday roster establishes both players were present."
+              }
+            ]
+          },
+          {
+            "displayed_player": "Lionel Messi",
+            "team": "FC Barcelona",
+            "team_type": "club",
+            "verified_overlap": {
+              "start": "2015-06-06",
+              "end": "2015-06-06"
+            },
+            "evidence": [
+              {
+                "url": "https://www.uefa.com/MultimediaFiles/Download/uefaorg/General/02/27/33/33/2273333_DOWNLOAD.pdf",
+                "description": "UEFA 2015 Champions League final team list; the matchday roster establishes both players were present."
+              }
+            ]
+          }
+        ]
+      },
+      "verified_alternative_solutions": [
+        {
+          "player": "Philippe Coutinho",
+          "connections": [
+            {
+              "displayed_player": "Steven Gerrard",
+              "team": "Liverpool FC",
+              "team_type": "club",
+              "verified_overlap": {
+                "start": "2014-03-30",
+                "end": "2014-03-30"
+              },
+              "evidence": [
+                {
+                  "url": "https://www.tottenhamhotspur.com/news/1045062/liverpool-4-0-spurs-match-gallery",
+                  "description": "Dated matchday lineup includes Coutinho and the displayed player."
+                }
+              ]
+            },
+            {
+              "displayed_player": "Raheem Sterling",
+              "team": "Liverpool FC",
+              "team_type": "club",
+              "verified_overlap": {
+                "start": "2014-03-30",
+                "end": "2014-03-30"
+              },
+              "evidence": [
+                {
+                  "url": "https://www.tottenhamhotspur.com/news/1045062/liverpool-4-0-spurs-match-gallery",
+                  "description": "Dated matchday lineup includes Coutinho and the displayed player."
+                }
+              ]
+            },
+            {
+              "displayed_player": "Lionel Messi",
+              "team": "FC Barcelona",
+              "team_type": "club",
+              "verified_overlap": {
+                "start": "2019-05-07",
+                "end": "2019-05-07"
+              },
+              "evidence": [
+                {
+                  "url": "https://www.uefa.com/newsfiles/UCL/2019/2027160_LU.pdf",
+                  "description": "Dated matchday lineup includes Coutinho and the displayed player."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "alternatives_status": "Only selected verified alternatives are listed; the list is not exhaustive. Accept any separately verified solution.",
+      "hints": [
+        "Two of the displayed players were club teammates of the answer; the other was an international teammate.",
+        "The club connection is Liverpool FC.",
+        "The international connection is FC Barcelona, on 2015-06-06."
+      ],
+      "game_master": {
+        "prompt": "Name a player who was a senior teammate of all three displayed players.",
+        "reveal": "Luis Suárez links the first two via Liverpool FC and the third via FC Barcelona.",
+        "adjudication": "Accept every independently verified qualifying player other than the three displayed players. The listed alternatives are not exhaustive."
+      }
+    },
+    {
+      "id": 14,
+      "difficulty": "medium",
+      "difficulty_rationale": "Editorial estimate based on recognition of the displayed players and the need to connect club and national-team careers; not play-tested.",
+      "displayed_players": [
+        "Jordan Henderson",
+        "Daniel Sturridge",
+        "Neymar"
+      ],
+      "primary_solution": {
+        "player": "Luis Suárez",
+        "connections": [
+          {
+            "displayed_player": "Jordan Henderson",
+            "team": "Liverpool FC",
+            "team_type": "club",
+            "verified_overlap": {
+              "start": "2014-03-30",
+              "end": "2014-03-30"
+            },
+            "evidence": [
+              {
+                "url": "https://www.tottenhamhotspur.com/news/1045062/liverpool-4-0-spurs-match-gallery",
+                "description": "Match report and team list, Liverpool v Tottenham; the matchday roster establishes both players were present."
+              }
+            ]
+          },
+          {
+            "displayed_player": "Daniel Sturridge",
+            "team": "Liverpool FC",
+            "team_type": "club",
+            "verified_overlap": {
+              "start": "2014-03-30",
+              "end": "2014-03-30"
+            },
+            "evidence": [
+              {
+                "url": "https://www.tottenhamhotspur.com/news/1045062/liverpool-4-0-spurs-match-gallery",
+                "description": "Match report and team list, Liverpool v Tottenham; the matchday roster establishes both players were present."
+              }
+            ]
+          },
+          {
+            "displayed_player": "Neymar",
+            "team": "FC Barcelona",
+            "team_type": "club",
+            "verified_overlap": {
+              "start": "2015-06-06",
+              "end": "2015-06-06"
+            },
+            "evidence": [
+              {
+                "url": "https://www.uefa.com/MultimediaFiles/Download/uefaorg/General/02/27/33/33/2273333_DOWNLOAD.pdf",
+                "description": "UEFA 2015 Champions League final team list; the matchday roster establishes both players were present."
+              }
+            ]
+          }
+        ]
+      },
+      "verified_alternative_solutions": [
+        {
+          "player": "Philippe Coutinho",
+          "connections": [
+            {
+              "displayed_player": "Jordan Henderson",
+              "team": "Liverpool FC",
+              "team_type": "club",
+              "verified_overlap": {
+                "start": "2014-03-30",
+                "end": "2014-03-30"
+              },
+              "evidence": [
+                {
+                  "url": "https://www.tottenhamhotspur.com/news/1045062/liverpool-4-0-spurs-match-gallery",
+                  "description": "Dated matchday lineup includes Coutinho and the displayed player."
+                }
+              ]
+            },
+            {
+              "displayed_player": "Daniel Sturridge",
+              "team": "Liverpool FC",
+              "team_type": "club",
+              "verified_overlap": {
+                "start": "2014-03-30",
+                "end": "2014-03-30"
+              },
+              "evidence": [
+                {
+                  "url": "https://www.tottenhamhotspur.com/news/1045062/liverpool-4-0-spurs-match-gallery",
+                  "description": "Dated matchday lineup includes Coutinho and the displayed player."
+                }
+              ]
+            },
+            {
+              "displayed_player": "Neymar",
+              "team": "Brazil men’s senior national team",
+              "team_type": "national",
+              "verified_overlap": {
+                "start": "2018-07-06",
+                "end": "2018-07-06"
+              },
+              "evidence": [
+                {
+                  "url": "https://inside.fifa.com/tournaments/mens/worldcup/2018russia/news/worldcupathome-brazil-belgium-russia-2018-3072226",
+                  "description": "Dated matchday lineup includes Coutinho and the displayed player."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "alternatives_status": "Only selected verified alternatives are listed; the list is not exhaustive. Accept any separately verified solution.",
+      "hints": [
+        "Two of the displayed players were club teammates of the answer; the other was an international teammate.",
+        "The club connection is Liverpool FC.",
+        "The international connection is FC Barcelona, on 2015-06-06."
+      ],
+      "game_master": {
+        "prompt": "Name a player who was a senior teammate of all three displayed players.",
+        "reveal": "Luis Suárez links the first two via Liverpool FC and the third via FC Barcelona.",
+        "adjudication": "Accept every independently verified qualifying player other than the three displayed players. The listed alternatives are not exhaustive."
+      }
+    },
+    {
+      "id": 15,
+      "difficulty": "medium",
+      "difficulty_rationale": "Editorial estimate based on recognition of the displayed players and the need to connect club and national-team careers; not play-tested.",
+      "displayed_players": [
+        "Andrea Pirlo",
+        "Gianluigi Buffon",
+        "Kylian Mbappé"
+      ],
+      "primary_solution": {
+        "player": "Paul Pogba",
+        "connections": [
+          {
+            "displayed_player": "Andrea Pirlo",
+            "team": "Juventus FC",
+            "team_type": "club",
+            "verified_overlap": {
+              "start": "2015-06-06",
+              "end": "2015-06-06"
+            },
+            "evidence": [
+              {
+                "url": "https://www.uefa.com/MultimediaFiles/Download/uefaorg/General/02/27/33/33/2273333_DOWNLOAD.pdf",
+                "description": "UEFA 2015 Champions League final team list; the matchday roster establishes both players were present."
+              }
+            ]
+          },
+          {
+            "displayed_player": "Gianluigi Buffon",
+            "team": "Juventus FC",
+            "team_type": "club",
+            "verified_overlap": {
+              "start": "2015-06-06",
+              "end": "2015-06-06"
+            },
+            "evidence": [
+              {
+                "url": "https://www.uefa.com/MultimediaFiles/Download/uefaorg/General/02/27/33/33/2273333_DOWNLOAD.pdf",
+                "description": "UEFA 2015 Champions League final team list; the matchday roster establishes both players were present."
+              }
+            ]
+          },
+          {
+            "displayed_player": "Kylian Mbappé",
+            "team": "France men’s senior national team",
+            "team_type": "national",
+            "verified_overlap": {
+              "start": "2018-07-15",
+              "end": "2018-07-15"
+            },
+            "evidence": [
+              {
+                "url": "https://inside.fifa.com/tournaments/mens/worldcup/2018russia/news/worldcupathome-france-croatia-russia-2018-3072767",
+                "description": "FIFA France v Croatia World Cup final lineup; the matchday roster establishes both players were present."
+              }
+            ]
+          }
+        ]
+      },
+      "verified_alternative_solutions": [],
+      "alternatives_status": "Only selected verified alternatives are listed; the list is not exhaustive. Accept any separately verified solution.",
+      "hints": [
+        "Two of the displayed players were club teammates of the answer; the other was an international teammate.",
+        "The club connection is Juventus FC.",
+        "The international connection is France men’s senior national team, on 2018-07-15."
+      ],
+      "game_master": {
+        "prompt": "Name a player who was a senior teammate of all three displayed players.",
+        "reveal": "Paul Pogba links the first two via Juventus FC and the third via France men’s senior national team.",
+        "adjudication": "Accept every independently verified qualifying player other than the three displayed players. The listed alternatives are not exhaustive."
+      }
+    },
+    {
+      "id": 16,
+      "difficulty": "medium",
+      "difficulty_rationale": "Editorial estimate based on recognition of the displayed players and the need to connect club and national-team careers; not play-tested.",
+      "displayed_players": [
+        "Carlos Tévez",
+        "Claudio Marchisio",
+        "N’Golo Kanté"
+      ],
+      "primary_solution": {
+        "player": "Paul Pogba",
+        "connections": [
+          {
+            "displayed_player": "Carlos Tévez",
+            "team": "Juventus FC",
+            "team_type": "club",
+            "verified_overlap": {
+              "start": "2015-06-06",
+              "end": "2015-06-06"
+            },
+            "evidence": [
+              {
+                "url": "https://www.uefa.com/MultimediaFiles/Download/uefaorg/General/02/27/33/33/2273333_DOWNLOAD.pdf",
+                "description": "UEFA 2015 Champions League final team list; the matchday roster establishes both players were present."
+              }
+            ]
+          },
+          {
+            "displayed_player": "Claudio Marchisio",
+            "team": "Juventus FC",
+            "team_type": "club",
+            "verified_overlap": {
+              "start": "2015-06-06",
+              "end": "2015-06-06"
+            },
+            "evidence": [
+              {
+                "url": "https://www.uefa.com/MultimediaFiles/Download/uefaorg/General/02/27/33/33/2273333_DOWNLOAD.pdf",
+                "description": "UEFA 2015 Champions League final team list; the matchday roster establishes both players were present."
+              }
+            ]
+          },
+          {
+            "displayed_player": "N’Golo Kanté",
+            "team": "France men’s senior national team",
+            "team_type": "national",
+            "verified_overlap": {
+              "start": "2018-07-15",
+              "end": "2018-07-15"
+            },
+            "evidence": [
+              {
+                "url": "https://inside.fifa.com/tournaments/mens/worldcup/2018russia/news/worldcupathome-france-croatia-russia-2018-3072767",
+                "description": "FIFA France v Croatia World Cup final lineup; the matchday roster establishes both players were present."
+              }
+            ]
+          }
+        ]
+      },
+      "verified_alternative_solutions": [],
+      "alternatives_status": "Only selected verified alternatives are listed; the list is not exhaustive. Accept any separately verified solution.",
+      "hints": [
+        "Two of the displayed players were club teammates of the answer; the other was an international teammate.",
+        "The club connection is Juventus FC.",
+        "The international connection is France men’s senior national team, on 2018-07-15."
+      ],
+      "game_master": {
+        "prompt": "Name a player who was a senior teammate of all three displayed players.",
+        "reveal": "Paul Pogba links the first two via Juventus FC and the third via France men’s senior national team.",
+        "adjudication": "Accept every independently verified qualifying player other than the three displayed players. The listed alternatives are not exhaustive."
+      }
+    },
+    {
+      "id": 17,
+      "difficulty": "medium",
+      "difficulty_rationale": "Editorial estimate based on recognition of the displayed players and the need to connect club and national-team careers; not play-tested.",
+      "displayed_players": [
+        "Cristiano Ronaldo",
+        "Karim Benzema",
+        "Antoine Griezmann"
+      ],
+      "primary_solution": {
+        "player": "Raphaël Varane",
+        "connections": [
+          {
+            "displayed_player": "Cristiano Ronaldo",
+            "team": "Real Madrid CF",
+            "team_type": "club",
+            "verified_overlap": {
+              "start": "2017-06-03",
+              "end": "2017-06-03"
+            },
+            "evidence": [
+              {
+                "url": "https://www.uefa.com/newsfiles/UCL/2017/2019641_LU.pdf",
+                "description": "UEFA 2017 Champions League final team list; the matchday roster establishes both players were present."
+              }
+            ]
+          },
+          {
+            "displayed_player": "Karim Benzema",
+            "team": "Real Madrid CF",
+            "team_type": "club",
+            "verified_overlap": {
+              "start": "2017-06-03",
+              "end": "2017-06-03"
+            },
+            "evidence": [
+              {
+                "url": "https://www.uefa.com/newsfiles/UCL/2017/2019641_LU.pdf",
+                "description": "UEFA 2017 Champions League final team list; the matchday roster establishes both players were present."
+              }
+            ]
+          },
+          {
+            "displayed_player": "Antoine Griezmann",
+            "team": "France men’s senior national team",
+            "team_type": "national",
+            "verified_overlap": {
+              "start": "2018-07-15",
+              "end": "2018-07-15"
+            },
+            "evidence": [
+              {
+                "url": "https://inside.fifa.com/tournaments/mens/worldcup/2018russia/news/worldcupathome-france-croatia-russia-2018-3072767",
+                "description": "FIFA France v Croatia World Cup final lineup; the matchday roster establishes both players were present."
+              }
+            ]
+          }
+        ]
+      },
+      "verified_alternative_solutions": [],
+      "alternatives_status": "Only selected verified alternatives are listed; the list is not exhaustive. Accept any separately verified solution.",
+      "hints": [
+        "Two of the displayed players were club teammates of the answer; the other was an international teammate.",
+        "The club connection is Real Madrid CF.",
+        "The international connection is France men’s senior national team, on 2018-07-15."
+      ],
+      "game_master": {
+        "prompt": "Name a player who was a senior teammate of all three displayed players.",
+        "reveal": "Raphaël Varane links the first two via Real Madrid CF and the third via France men’s senior national team.",
+        "adjudication": "Accept every independently verified qualifying player other than the three displayed players. The listed alternatives are not exhaustive."
+      }
+    },
+    {
+      "id": 18,
+      "difficulty": "medium",
+      "difficulty_rationale": "Editorial estimate based on recognition of the displayed players and the need to connect club and national-team careers; not play-tested.",
+      "displayed_players": [
+        "Toni Kroos",
+        "Dani Carvajal",
+        "Olivier Giroud"
+      ],
+      "primary_solution": {
+        "player": "Raphaël Varane",
+        "connections": [
+          {
+            "displayed_player": "Toni Kroos",
+            "team": "Real Madrid CF",
+            "team_type": "club",
+            "verified_overlap": {
+              "start": "2017-06-03",
+              "end": "2017-06-03"
+            },
+            "evidence": [
+              {
+                "url": "https://www.uefa.com/newsfiles/UCL/2017/2019641_LU.pdf",
+                "description": "UEFA 2017 Champions League final team list; the matchday roster establishes both players were present."
+              }
+            ]
+          },
+          {
+            "displayed_player": "Dani Carvajal",
+            "team": "Real Madrid CF",
+            "team_type": "club",
+            "verified_overlap": {
+              "start": "2017-06-03",
+              "end": "2017-06-03"
+            },
+            "evidence": [
+              {
+                "url": "https://www.uefa.com/newsfiles/UCL/2017/2019641_LU.pdf",
+                "description": "UEFA 2017 Champions League final team list; the matchday roster establishes both players were present."
+              }
+            ]
+          },
+          {
+            "displayed_player": "Olivier Giroud",
+            "team": "France men’s senior national team",
+            "team_type": "national",
+            "verified_overlap": {
+              "start": "2018-07-15",
+              "end": "2018-07-15"
+            },
+            "evidence": [
+              {
+                "url": "https://inside.fifa.com/tournaments/mens/worldcup/2018russia/news/worldcupathome-france-croatia-russia-2018-3072767",
+                "description": "FIFA France v Croatia World Cup final lineup; the matchday roster establishes both players were present."
+              }
+            ]
+          }
+        ]
+      },
+      "verified_alternative_solutions": [],
+      "alternatives_status": "Only selected verified alternatives are listed; the list is not exhaustive. Accept any separately verified solution.",
+      "hints": [
+        "Two of the displayed players were club teammates of the answer; the other was an international teammate.",
+        "The club connection is Real Madrid CF.",
+        "The international connection is France men’s senior national team, on 2018-07-15."
+      ],
+      "game_master": {
+        "prompt": "Name a player who was a senior teammate of all three displayed players.",
+        "reveal": "Raphaël Varane links the first two via Real Madrid CF and the third via France men’s senior national team.",
+        "adjudication": "Accept every independently verified qualifying player other than the three displayed players. The listed alternatives are not exhaustive."
+      }
+    },
+    {
+      "id": 19,
+      "difficulty": "medium",
+      "difficulty_rationale": "Editorial estimate based on recognition of the displayed players and the need to connect club and national-team careers; not play-tested.",
+      "displayed_players": [
+        "Cristiano Ronaldo",
+        "Karim Benzema",
+        "Ivan Rakitić"
+      ],
+      "primary_solution": {
+        "player": "Luka Modrić",
+        "connections": [
+          {
+            "displayed_player": "Cristiano Ronaldo",
+            "team": "Real Madrid CF",
+            "team_type": "club",
+            "verified_overlap": {
+              "start": "2017-06-03",
+              "end": "2017-06-03"
+            },
+            "evidence": [
+              {
+                "url": "https://www.uefa.com/newsfiles/UCL/2017/2019641_LU.pdf",
+                "description": "UEFA 2017 Champions League final team list; the matchday roster establishes both players were present."
+              }
+            ]
+          },
+          {
+            "displayed_player": "Karim Benzema",
+            "team": "Real Madrid CF",
+            "team_type": "club",
+            "verified_overlap": {
+              "start": "2017-06-03",
+              "end": "2017-06-03"
+            },
+            "evidence": [
+              {
+                "url": "https://www.uefa.com/newsfiles/UCL/2017/2019641_LU.pdf",
+                "description": "UEFA 2017 Champions League final team list; the matchday roster establishes both players were present."
+              }
+            ]
+          },
+          {
+            "displayed_player": "Ivan Rakitić",
+            "team": "Croatia men’s senior national team",
+            "team_type": "national",
+            "verified_overlap": {
+              "start": "2018-07-15",
+              "end": "2018-07-15"
+            },
+            "evidence": [
+              {
+                "url": "https://www.sportsmole.co.uk/football/france/world-cup/team-news/france-croatia-as-expected-for-wc-final_330666.html",
+                "description": "Croatia World Cup final matchday squad; the matchday roster establishes both players were present."
+              }
+            ]
+          }
+        ]
+      },
+      "verified_alternative_solutions": [
+        {
+          "player": "Mateo Kovačić",
+          "connections": [
+            {
+              "displayed_player": "Cristiano Ronaldo",
+              "team": "Real Madrid CF",
+              "team_type": "club",
+              "verified_overlap": {
+                "start": "2017-06-03",
+                "end": "2017-06-03"
+              },
+              "evidence": [
+                {
+                  "url": "https://www.uefa.com/newsfiles/UCL/2017/2019641_LU.pdf",
+                  "description": "UEFA 2017 Champions League final team list; the matchday roster establishes both players were present."
+                }
+              ]
+            },
+            {
+              "displayed_player": "Karim Benzema",
+              "team": "Real Madrid CF",
+              "team_type": "club",
+              "verified_overlap": {
+                "start": "2017-06-03",
+                "end": "2017-06-03"
+              },
+              "evidence": [
+                {
+                  "url": "https://www.uefa.com/newsfiles/UCL/2017/2019641_LU.pdf",
+                  "description": "UEFA 2017 Champions League final team list; the matchday roster establishes both players were present."
+                }
+              ]
+            },
+            {
+              "displayed_player": "Ivan Rakitić",
+              "team": "Croatia men’s senior national team",
+              "team_type": "national",
+              "verified_overlap": {
+                "start": "2018-07-15",
+                "end": "2018-07-15"
+              },
+              "evidence": [
+                {
+                  "url": "https://www.sportsmole.co.uk/football/france/world-cup/team-news/france-croatia-as-expected-for-wc-final_330666.html",
+                  "description": "Croatia World Cup final matchday squad; the matchday roster establishes both players were present."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "alternatives_status": "Only selected verified alternatives are listed; the list is not exhaustive. Accept any separately verified solution.",
+      "hints": [
+        "Two of the displayed players were club teammates of the answer; the other was an international teammate.",
+        "The club connection is Real Madrid CF.",
+        "The international connection is Croatia men’s senior national team, on 2018-07-15."
+      ],
+      "game_master": {
+        "prompt": "Name a player who was a senior teammate of all three displayed players.",
+        "reveal": "Luka Modrić links the first two via Real Madrid CF and the third via Croatia men’s senior national team.",
+        "adjudication": "Accept every independently verified qualifying player other than the three displayed players. The listed alternatives are not exhaustive."
+      }
+    },
+    {
+      "id": 20,
+      "difficulty": "medium",
+      "difficulty_rationale": "Editorial estimate based on recognition of the displayed players and the need to connect club and national-team careers; not play-tested.",
+      "displayed_players": [
+        "Toni Kroos",
+        "Sergio Ramos",
+        "Ivan Perišić"
+      ],
+      "primary_solution": {
+        "player": "Luka Modrić",
+        "connections": [
+          {
+            "displayed_player": "Toni Kroos",
+            "team": "Real Madrid CF",
+            "team_type": "club",
+            "verified_overlap": {
+              "start": "2017-06-03",
+              "end": "2017-06-03"
+            },
+            "evidence": [
+              {
+                "url": "https://www.uefa.com/newsfiles/UCL/2017/2019641_LU.pdf",
+                "description": "UEFA 2017 Champions League final team list; the matchday roster establishes both players were present."
+              }
+            ]
+          },
+          {
+            "displayed_player": "Sergio Ramos",
+            "team": "Real Madrid CF",
+            "team_type": "club",
+            "verified_overlap": {
+              "start": "2017-06-03",
+              "end": "2017-06-03"
+            },
+            "evidence": [
+              {
+                "url": "https://www.uefa.com/newsfiles/UCL/2017/2019641_LU.pdf",
+                "description": "UEFA 2017 Champions League final team list; the matchday roster establishes both players were present."
+              }
+            ]
+          },
+          {
+            "displayed_player": "Ivan Perišić",
+            "team": "Croatia men’s senior national team",
+            "team_type": "national",
+            "verified_overlap": {
+              "start": "2018-07-15",
+              "end": "2018-07-15"
+            },
+            "evidence": [
+              {
+                "url": "https://www.sportsmole.co.uk/football/france/world-cup/team-news/france-croatia-as-expected-for-wc-final_330666.html",
+                "description": "Croatia World Cup final matchday squad; the matchday roster establishes both players were present."
+              }
+            ]
+          }
+        ]
+      },
+      "verified_alternative_solutions": [
+        {
+          "player": "Mateo Kovačić",
+          "connections": [
+            {
+              "displayed_player": "Toni Kroos",
+              "team": "Real Madrid CF",
+              "team_type": "club",
+              "verified_overlap": {
+                "start": "2017-06-03",
+                "end": "2017-06-03"
+              },
+              "evidence": [
+                {
+                  "url": "https://www.uefa.com/newsfiles/UCL/2017/2019641_LU.pdf",
+                  "description": "UEFA 2017 Champions League final team list; the matchday roster establishes both players were present."
+                }
+              ]
+            },
+            {
+              "displayed_player": "Sergio Ramos",
+              "team": "Real Madrid CF",
+              "team_type": "club",
+              "verified_overlap": {
+                "start": "2017-06-03",
+                "end": "2017-06-03"
+              },
+              "evidence": [
+                {
+                  "url": "https://www.uefa.com/newsfiles/UCL/2017/2019641_LU.pdf",
+                  "description": "UEFA 2017 Champions League final team list; the matchday roster establishes both players were present."
+                }
+              ]
+            },
+            {
+              "displayed_player": "Ivan Perišić",
+              "team": "Croatia men’s senior national team",
+              "team_type": "national",
+              "verified_overlap": {
+                "start": "2018-07-15",
+                "end": "2018-07-15"
+              },
+              "evidence": [
+                {
+                  "url": "https://www.sportsmole.co.uk/football/france/world-cup/team-news/france-croatia-as-expected-for-wc-final_330666.html",
+                  "description": "Croatia World Cup final matchday squad; the matchday roster establishes both players were present."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "alternatives_status": "Only selected verified alternatives are listed; the list is not exhaustive. Accept any separately verified solution.",
+      "hints": [
+        "Two of the displayed players were club teammates of the answer; the other was an international teammate.",
+        "The club connection is Real Madrid CF.",
+        "The international connection is Croatia men’s senior national team, on 2018-07-15."
+      ],
+      "game_master": {
+        "prompt": "Name a player who was a senior teammate of all three displayed players.",
+        "reveal": "Luka Modrić links the first two via Real Madrid CF and the third via Croatia men’s senior national team.",
+        "adjudication": "Accept every independently verified qualifying player other than the three displayed players. The listed alternatives are not exhaustive."
+      }
+    },
+    {
+      "id": 21,
+      "difficulty": "hard",
+      "difficulty_rationale": "Editorial estimate based on recognition of the displayed players and the need to connect club and national-team careers; not play-tested.",
+      "displayed_players": [
+        "Cristiano Ronaldo",
+        "Luka Modrić",
+        "Neymar"
+      ],
+      "primary_solution": {
+        "player": "Casemiro",
+        "connections": [
+          {
+            "displayed_player": "Cristiano Ronaldo",
+            "team": "Real Madrid CF",
+            "team_type": "club",
+            "verified_overlap": {
+              "start": "2017-06-03",
+              "end": "2017-06-03"
+            },
+            "evidence": [
+              {
+                "url": "https://www.uefa.com/newsfiles/UCL/2017/2019641_LU.pdf",
+                "description": "UEFA 2017 Champions League final team list; the matchday roster establishes both players were present."
+              }
+            ]
+          },
+          {
+            "displayed_player": "Luka Modrić",
+            "team": "Real Madrid CF",
+            "team_type": "club",
+            "verified_overlap": {
+              "start": "2017-06-03",
+              "end": "2017-06-03"
+            },
+            "evidence": [
+              {
+                "url": "https://www.uefa.com/newsfiles/UCL/2017/2019641_LU.pdf",
+                "description": "UEFA 2017 Champions League final team list; the matchday roster establishes both players were present."
+              }
+            ]
+          },
+          {
+            "displayed_player": "Neymar",
+            "team": "Brazil men’s senior national team",
+            "team_type": "national",
+            "verified_overlap": {
+              "start": "2018-07-06",
+              "end": "2018-07-06"
+            },
+            "evidence": [
+              {
+                "url": "https://inside.fifa.com/tournaments/mens/worldcup/2018russia/news/worldcupathome-brazil-belgium-russia-2018-3072226",
+                "description": "FIFA Brazil v Belgium World Cup lineup; the matchday roster establishes both players were present."
+              }
+            ]
+          }
+        ]
+      },
+      "verified_alternative_solutions": [
+        {
+          "player": "Marcelo",
+          "connections": [
+            {
+              "displayed_player": "Cristiano Ronaldo",
+              "team": "Real Madrid CF",
+              "team_type": "club",
+              "verified_overlap": {
+                "start": "2017-06-03",
+                "end": "2017-06-03"
+              },
+              "evidence": [
+                {
+                  "url": "https://www.uefa.com/newsfiles/UCL/2017/2019641_LU.pdf",
+                  "description": "UEFA 2017 Champions League final team list; the matchday roster establishes both players were present."
+                }
+              ]
+            },
+            {
+              "displayed_player": "Luka Modrić",
+              "team": "Real Madrid CF",
+              "team_type": "club",
+              "verified_overlap": {
+                "start": "2017-06-03",
+                "end": "2017-06-03"
+              },
+              "evidence": [
+                {
+                  "url": "https://www.uefa.com/newsfiles/UCL/2017/2019641_LU.pdf",
+                  "description": "UEFA 2017 Champions League final team list; the matchday roster establishes both players were present."
+                }
+              ]
+            },
+            {
+              "displayed_player": "Neymar",
+              "team": "Brazil men’s senior national team",
+              "team_type": "national",
+              "verified_overlap": {
+                "start": "2018-07-06",
+                "end": "2018-07-06"
+              },
+              "evidence": [
+                {
+                  "url": "https://inside.fifa.com/tournaments/mens/worldcup/2018russia/news/worldcupathome-brazil-belgium-russia-2018-3072226",
+                  "description": "FIFA Brazil v Belgium World Cup lineup; the matchday roster establishes both players were present."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "alternatives_status": "Only selected verified alternatives are listed; the list is not exhaustive. Accept any separately verified solution.",
+      "hints": [
+        "Two of the displayed players were club teammates of the answer; the other was an international teammate.",
+        "The club connection is Real Madrid CF.",
+        "The international connection is Brazil men’s senior national team, on 2018-07-06."
+      ],
+      "game_master": {
+        "prompt": "Name a player who was a senior teammate of all three displayed players.",
+        "reveal": "Casemiro links the first two via Real Madrid CF and the third via Brazil men’s senior national team.",
+        "adjudication": "Accept every independently verified qualifying player other than the three displayed players. The listed alternatives are not exhaustive."
+      }
+    },
+    {
+      "id": 22,
+      "difficulty": "hard",
+      "difficulty_rationale": "Editorial estimate based on recognition of the displayed players and the need to connect club and national-team careers; not play-tested.",
+      "displayed_players": [
+        "Karim Benzema",
+        "Sergio Ramos",
+        "Philippe Coutinho"
+      ],
+      "primary_solution": {
+        "player": "Casemiro",
+        "connections": [
+          {
+            "displayed_player": "Karim Benzema",
+            "team": "Real Madrid CF",
+            "team_type": "club",
+            "verified_overlap": {
+              "start": "2017-06-03",
+              "end": "2017-06-03"
+            },
+            "evidence": [
+              {
+                "url": "https://www.uefa.com/newsfiles/UCL/2017/2019641_LU.pdf",
+                "description": "UEFA 2017 Champions League final team list; the matchday roster establishes both players were present."
+              }
+            ]
+          },
+          {
+            "displayed_player": "Sergio Ramos",
+            "team": "Real Madrid CF",
+            "team_type": "club",
+            "verified_overlap": {
+              "start": "2017-06-03",
+              "end": "2017-06-03"
+            },
+            "evidence": [
+              {
+                "url": "https://www.uefa.com/newsfiles/UCL/2017/2019641_LU.pdf",
+                "description": "UEFA 2017 Champions League final team list; the matchday roster establishes both players were present."
+              }
+            ]
+          },
+          {
+            "displayed_player": "Philippe Coutinho",
+            "team": "Brazil men’s senior national team",
+            "team_type": "national",
+            "verified_overlap": {
+              "start": "2018-07-06",
+              "end": "2018-07-06"
+            },
+            "evidence": [
+              {
+                "url": "https://inside.fifa.com/tournaments/mens/worldcup/2018russia/news/worldcupathome-brazil-belgium-russia-2018-3072226",
+                "description": "FIFA Brazil v Belgium World Cup lineup; the matchday roster establishes both players were present."
+              }
+            ]
+          }
+        ]
+      },
+      "verified_alternative_solutions": [
+        {
+          "player": "Marcelo",
+          "connections": [
+            {
+              "displayed_player": "Karim Benzema",
+              "team": "Real Madrid CF",
+              "team_type": "club",
+              "verified_overlap": {
+                "start": "2017-06-03",
+                "end": "2017-06-03"
+              },
+              "evidence": [
+                {
+                  "url": "https://www.uefa.com/newsfiles/UCL/2017/2019641_LU.pdf",
+                  "description": "UEFA 2017 Champions League final team list; the matchday roster establishes both players were present."
+                }
+              ]
+            },
+            {
+              "displayed_player": "Sergio Ramos",
+              "team": "Real Madrid CF",
+              "team_type": "club",
+              "verified_overlap": {
+                "start": "2017-06-03",
+                "end": "2017-06-03"
+              },
+              "evidence": [
+                {
+                  "url": "https://www.uefa.com/newsfiles/UCL/2017/2019641_LU.pdf",
+                  "description": "UEFA 2017 Champions League final team list; the matchday roster establishes both players were present."
+                }
+              ]
+            },
+            {
+              "displayed_player": "Philippe Coutinho",
+              "team": "Brazil men’s senior national team",
+              "team_type": "national",
+              "verified_overlap": {
+                "start": "2018-07-06",
+                "end": "2018-07-06"
+              },
+              "evidence": [
+                {
+                  "url": "https://inside.fifa.com/tournaments/mens/worldcup/2018russia/news/worldcupathome-brazil-belgium-russia-2018-3072226",
+                  "description": "FIFA Brazil v Belgium World Cup lineup; the matchday roster establishes both players were present."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "alternatives_status": "Only selected verified alternatives are listed; the list is not exhaustive. Accept any separately verified solution.",
+      "hints": [
+        "Two of the displayed players were club teammates of the answer; the other was an international teammate.",
+        "The club connection is Real Madrid CF.",
+        "The international connection is Brazil men’s senior national team, on 2018-07-06."
+      ],
+      "game_master": {
+        "prompt": "Name a player who was a senior teammate of all three displayed players.",
+        "reveal": "Casemiro links the first two via Real Madrid CF and the third via Brazil men’s senior national team.",
+        "adjudication": "Accept every independently verified qualifying player other than the three displayed players. The listed alternatives are not exhaustive."
+      }
+    },
+    {
+      "id": 23,
+      "difficulty": "hard",
+      "difficulty_rationale": "Editorial estimate based on recognition of the displayed players and the need to connect club and national-team careers; not play-tested.",
+      "displayed_players": [
+        "Virgil van Dijk",
+        "Sadio Mané",
+        "Neymar"
+      ],
+      "primary_solution": {
+        "player": "Alisson Becker",
+        "connections": [
+          {
+            "displayed_player": "Virgil van Dijk",
+            "team": "Liverpool FC",
+            "team_type": "club",
+            "verified_overlap": {
+              "start": "2019-06-01",
+              "end": "2019-06-01"
+            },
+            "evidence": [
+              {
+                "url": "https://www.uefa.com/newsfiles/UCL/2019/2025486_LU.pdf",
+                "description": "UEFA 2019 Champions League final team list; the matchday roster establishes both players were present."
+              }
+            ]
+          },
+          {
+            "displayed_player": "Sadio Mané",
+            "team": "Liverpool FC",
+            "team_type": "club",
+            "verified_overlap": {
+              "start": "2019-06-01",
+              "end": "2019-06-01"
+            },
+            "evidence": [
+              {
+                "url": "https://www.uefa.com/newsfiles/UCL/2019/2025486_LU.pdf",
+                "description": "UEFA 2019 Champions League final team list; the matchday roster establishes both players were present."
+              }
+            ]
+          },
+          {
+            "displayed_player": "Neymar",
+            "team": "Brazil men’s senior national team",
+            "team_type": "national",
+            "verified_overlap": {
+              "start": "2018-07-06",
+              "end": "2018-07-06"
+            },
+            "evidence": [
+              {
+                "url": "https://inside.fifa.com/tournaments/mens/worldcup/2018russia/news/worldcupathome-brazil-belgium-russia-2018-3072226",
+                "description": "FIFA Brazil v Belgium World Cup lineup; the matchday roster establishes both players were present."
+              }
+            ]
+          }
+        ]
+      },
+      "verified_alternative_solutions": [
+        {
+          "player": "Roberto Firmino",
+          "connections": [
+            {
+              "displayed_player": "Virgil van Dijk",
+              "team": "Liverpool FC",
+              "team_type": "club",
+              "verified_overlap": {
+                "start": "2019-06-01",
+                "end": "2019-06-01"
+              },
+              "evidence": [
+                {
+                  "url": "https://www.uefa.com/newsfiles/UCL/2019/2025486_LU.pdf",
+                  "description": "UEFA 2019 Champions League final team list; the matchday roster establishes both players were present."
+                }
+              ]
+            },
+            {
+              "displayed_player": "Sadio Mané",
+              "team": "Liverpool FC",
+              "team_type": "club",
+              "verified_overlap": {
+                "start": "2019-06-01",
+                "end": "2019-06-01"
+              },
+              "evidence": [
+                {
+                  "url": "https://www.uefa.com/newsfiles/UCL/2019/2025486_LU.pdf",
+                  "description": "UEFA 2019 Champions League final team list; the matchday roster establishes both players were present."
+                }
+              ]
+            },
+            {
+              "displayed_player": "Neymar",
+              "team": "Brazil men’s senior national team",
+              "team_type": "national",
+              "verified_overlap": {
+                "start": "2018-07-06",
+                "end": "2018-07-06"
+              },
+              "evidence": [
+                {
+                  "url": "https://inside.fifa.com/tournaments/mens/worldcup/2018russia/news/worldcupathome-brazil-belgium-russia-2018-3072226",
+                  "description": "FIFA Brazil v Belgium World Cup lineup; the matchday roster establishes both players were present."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "alternatives_status": "Only selected verified alternatives are listed; the list is not exhaustive. Accept any separately verified solution.",
+      "hints": [
+        "Two of the displayed players were club teammates of the answer; the other was an international teammate.",
+        "The club connection is Liverpool FC.",
+        "The international connection is Brazil men’s senior national team, on 2018-07-06."
+      ],
+      "game_master": {
+        "prompt": "Name a player who was a senior teammate of all three displayed players.",
+        "reveal": "Alisson Becker links the first two via Liverpool FC and the third via Brazil men’s senior national team.",
+        "adjudication": "Accept every independently verified qualifying player other than the three displayed players. The listed alternatives are not exhaustive."
+      }
+    },
+    {
+      "id": 24,
+      "difficulty": "hard",
+      "difficulty_rationale": "Editorial estimate based on recognition of the displayed players and the need to connect club and national-team careers; not play-tested.",
+      "displayed_players": [
+        "Andrew Robertson",
+        "Jordan Henderson",
+        "Gabriel Jesus"
+      ],
+      "primary_solution": {
+        "player": "Alisson Becker",
+        "connections": [
+          {
+            "displayed_player": "Andrew Robertson",
+            "team": "Liverpool FC",
+            "team_type": "club",
+            "verified_overlap": {
+              "start": "2019-06-01",
+              "end": "2019-06-01"
+            },
+            "evidence": [
+              {
+                "url": "https://www.uefa.com/newsfiles/UCL/2019/2025486_LU.pdf",
+                "description": "UEFA 2019 Champions League final team list; the matchday roster establishes both players were present."
+              }
+            ]
+          },
+          {
+            "displayed_player": "Jordan Henderson",
+            "team": "Liverpool FC",
+            "team_type": "club",
+            "verified_overlap": {
+              "start": "2019-06-01",
+              "end": "2019-06-01"
+            },
+            "evidence": [
+              {
+                "url": "https://www.uefa.com/newsfiles/UCL/2019/2025486_LU.pdf",
+                "description": "UEFA 2019 Champions League final team list; the matchday roster establishes both players were present."
+              }
+            ]
+          },
+          {
+            "displayed_player": "Gabriel Jesus",
+            "team": "Brazil men’s senior national team",
+            "team_type": "national",
+            "verified_overlap": {
+              "start": "2018-07-06",
+              "end": "2018-07-06"
+            },
+            "evidence": [
+              {
+                "url": "https://inside.fifa.com/tournaments/mens/worldcup/2018russia/news/worldcupathome-brazil-belgium-russia-2018-3072226",
+                "description": "FIFA Brazil v Belgium World Cup lineup; the matchday roster establishes both players were present."
+              }
+            ]
+          }
+        ]
+      },
+      "verified_alternative_solutions": [
+        {
+          "player": "Roberto Firmino",
+          "connections": [
+            {
+              "displayed_player": "Andrew Robertson",
+              "team": "Liverpool FC",
+              "team_type": "club",
+              "verified_overlap": {
+                "start": "2019-06-01",
+                "end": "2019-06-01"
+              },
+              "evidence": [
+                {
+                  "url": "https://www.uefa.com/newsfiles/UCL/2019/2025486_LU.pdf",
+                  "description": "UEFA 2019 Champions League final team list; the matchday roster establishes both players were present."
+                }
+              ]
+            },
+            {
+              "displayed_player": "Jordan Henderson",
+              "team": "Liverpool FC",
+              "team_type": "club",
+              "verified_overlap": {
+                "start": "2019-06-01",
+                "end": "2019-06-01"
+              },
+              "evidence": [
+                {
+                  "url": "https://www.uefa.com/newsfiles/UCL/2019/2025486_LU.pdf",
+                  "description": "UEFA 2019 Champions League final team list; the matchday roster establishes both players were present."
+                }
+              ]
+            },
+            {
+              "displayed_player": "Gabriel Jesus",
+              "team": "Brazil men’s senior national team",
+              "team_type": "national",
+              "verified_overlap": {
+                "start": "2018-07-06",
+                "end": "2018-07-06"
+              },
+              "evidence": [
+                {
+                  "url": "https://inside.fifa.com/tournaments/mens/worldcup/2018russia/news/worldcupathome-brazil-belgium-russia-2018-3072226",
+                  "description": "FIFA Brazil v Belgium World Cup lineup; the matchday roster establishes both players were present."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "alternatives_status": "Only selected verified alternatives are listed; the list is not exhaustive. Accept any separately verified solution.",
+      "hints": [
+        "Two of the displayed players were club teammates of the answer; the other was an international teammate.",
+        "The club connection is Liverpool FC.",
+        "The international connection is Brazil men’s senior national team, on 2018-07-06."
+      ],
+      "game_master": {
+        "prompt": "Name a player who was a senior teammate of all three displayed players.",
+        "reveal": "Alisson Becker links the first two via Liverpool FC and the third via Brazil men’s senior national team.",
+        "adjudication": "Accept every independently verified qualifying player other than the three displayed players. The listed alternatives are not exhaustive."
+      }
+    },
+    {
+      "id": 25,
+      "difficulty": "hard",
+      "difficulty_rationale": "Editorial estimate based on recognition of the displayed players and the need to connect club and national-team careers; not play-tested.",
+      "displayed_players": [
+        "Harry Kane",
+        "Son Heung-min",
+        "Kylian Mbappé"
+      ],
+      "primary_solution": {
+        "player": "Hugo Lloris",
+        "connections": [
+          {
+            "displayed_player": "Harry Kane",
+            "team": "Tottenham Hotspur FC",
+            "team_type": "club",
+            "verified_overlap": {
+              "start": "2019-06-01",
+              "end": "2019-06-01"
+            },
+            "evidence": [
+              {
+                "url": "https://www.uefa.com/newsfiles/UCL/2019/2025486_LU.pdf",
+                "description": "UEFA 2019 Champions League final team list; the matchday roster establishes both players were present."
+              }
+            ]
+          },
+          {
+            "displayed_player": "Son Heung-min",
+            "team": "Tottenham Hotspur FC",
+            "team_type": "club",
+            "verified_overlap": {
+              "start": "2019-06-01",
+              "end": "2019-06-01"
+            },
+            "evidence": [
+              {
+                "url": "https://www.uefa.com/newsfiles/UCL/2019/2025486_LU.pdf",
+                "description": "UEFA 2019 Champions League final team list; the matchday roster establishes both players were present."
+              }
+            ]
+          },
+          {
+            "displayed_player": "Kylian Mbappé",
+            "team": "France men’s senior national team",
+            "team_type": "national",
+            "verified_overlap": {
+              "start": "2018-07-15",
+              "end": "2018-07-15"
+            },
+            "evidence": [
+              {
+                "url": "https://inside.fifa.com/tournaments/mens/worldcup/2018russia/news/worldcupathome-france-croatia-russia-2018-3072767",
+                "description": "FIFA France v Croatia World Cup final lineup; the matchday roster establishes both players were present."
+              }
+            ]
+          }
+        ]
+      },
+      "verified_alternative_solutions": [],
+      "alternatives_status": "Only selected verified alternatives are listed; the list is not exhaustive. Accept any separately verified solution.",
+      "hints": [
+        "Two of the displayed players were club teammates of the answer; the other was an international teammate.",
+        "The club connection is Tottenham Hotspur FC.",
+        "The international connection is France men’s senior national team, on 2018-07-15."
+      ],
+      "game_master": {
+        "prompt": "Name a player who was a senior teammate of all three displayed players.",
+        "reveal": "Hugo Lloris links the first two via Tottenham Hotspur FC and the third via France men’s senior national team.",
+        "adjudication": "Accept every independently verified qualifying player other than the three displayed players. The listed alternatives are not exhaustive."
+      }
+    },
+    {
+      "id": 26,
+      "difficulty": "hard",
+      "difficulty_rationale": "Editorial estimate based on recognition of the displayed players and the need to connect club and national-team careers; not play-tested.",
+      "displayed_players": [
+        "Christian Eriksen",
+        "Jan Vertonghen",
+        "Paul Pogba"
+      ],
+      "primary_solution": {
+        "player": "Hugo Lloris",
+        "connections": [
+          {
+            "displayed_player": "Christian Eriksen",
+            "team": "Tottenham Hotspur FC",
+            "team_type": "club",
+            "verified_overlap": {
+              "start": "2019-06-01",
+              "end": "2019-06-01"
+            },
+            "evidence": [
+              {
+                "url": "https://www.uefa.com/newsfiles/UCL/2019/2025486_LU.pdf",
+                "description": "UEFA 2019 Champions League final team list; the matchday roster establishes both players were present."
+              }
+            ]
+          },
+          {
+            "displayed_player": "Jan Vertonghen",
+            "team": "Tottenham Hotspur FC",
+            "team_type": "club",
+            "verified_overlap": {
+              "start": "2019-06-01",
+              "end": "2019-06-01"
+            },
+            "evidence": [
+              {
+                "url": "https://www.uefa.com/newsfiles/UCL/2019/2025486_LU.pdf",
+                "description": "UEFA 2019 Champions League final team list; the matchday roster establishes both players were present."
+              }
+            ]
+          },
+          {
+            "displayed_player": "Paul Pogba",
+            "team": "France men’s senior national team",
+            "team_type": "national",
+            "verified_overlap": {
+              "start": "2018-07-15",
+              "end": "2018-07-15"
+            },
+            "evidence": [
+              {
+                "url": "https://inside.fifa.com/tournaments/mens/worldcup/2018russia/news/worldcupathome-france-croatia-russia-2018-3072767",
+                "description": "FIFA France v Croatia World Cup final lineup; the matchday roster establishes both players were present."
+              }
+            ]
+          }
+        ]
+      },
+      "verified_alternative_solutions": [],
+      "alternatives_status": "Only selected verified alternatives are listed; the list is not exhaustive. Accept any separately verified solution.",
+      "hints": [
+        "Two of the displayed players were club teammates of the answer; the other was an international teammate.",
+        "The club connection is Tottenham Hotspur FC.",
+        "The international connection is France men’s senior national team, on 2018-07-15."
+      ],
+      "game_master": {
+        "prompt": "Name a player who was a senior teammate of all three displayed players.",
+        "reveal": "Hugo Lloris links the first two via Tottenham Hotspur FC and the third via France men’s senior national team.",
+        "adjudication": "Accept every independently verified qualifying player other than the three displayed players. The listed alternatives are not exhaustive."
+      }
+    },
+    {
+      "id": 27,
+      "difficulty": "hard",
+      "difficulty_rationale": "Editorial estimate based on recognition of the displayed players and the need to connect club and national-team careers; not play-tested.",
+      "displayed_players": [
+        "Harry Kane",
+        "Christian Eriksen",
+        "Kevin De Bruyne"
+      ],
+      "primary_solution": {
+        "player": "Jan Vertonghen",
+        "connections": [
+          {
+            "displayed_player": "Harry Kane",
+            "team": "Tottenham Hotspur FC",
+            "team_type": "club",
+            "verified_overlap": {
+              "start": "2019-06-01",
+              "end": "2019-06-01"
+            },
+            "evidence": [
+              {
+                "url": "https://www.uefa.com/newsfiles/UCL/2019/2025486_LU.pdf",
+                "description": "UEFA 2019 Champions League final team list; the matchday roster establishes both players were present."
+              }
+            ]
+          },
+          {
+            "displayed_player": "Christian Eriksen",
+            "team": "Tottenham Hotspur FC",
+            "team_type": "club",
+            "verified_overlap": {
+              "start": "2019-06-01",
+              "end": "2019-06-01"
+            },
+            "evidence": [
+              {
+                "url": "https://www.uefa.com/newsfiles/UCL/2019/2025486_LU.pdf",
+                "description": "UEFA 2019 Champions League final team list; the matchday roster establishes both players were present."
+              }
+            ]
+          },
+          {
+            "displayed_player": "Kevin De Bruyne",
+            "team": "Belgium men’s senior national team",
+            "team_type": "national",
+            "verified_overlap": {
+              "start": "2018-07-06",
+              "end": "2018-07-06"
+            },
+            "evidence": [
+              {
+                "url": "https://inside.fifa.com/tournaments/mens/worldcup/2018russia/news/worldcupathome-brazil-belgium-russia-2018-3072226",
+                "description": "FIFA Belgium v Brazil World Cup lineup; the matchday roster establishes both players were present."
+              }
+            ]
+          }
+        ]
+      },
+      "verified_alternative_solutions": [
+        {
+          "player": "Toby Alderweireld",
+          "connections": [
+            {
+              "displayed_player": "Harry Kane",
+              "team": "Tottenham Hotspur FC",
+              "team_type": "club",
+              "verified_overlap": {
+                "start": "2019-06-01",
+                "end": "2019-06-01"
+              },
+              "evidence": [
+                {
+                  "url": "https://www.uefa.com/newsfiles/UCL/2019/2025486_LU.pdf",
+                  "description": "UEFA 2019 Champions League final team list; the matchday roster establishes both players were present."
+                }
+              ]
+            },
+            {
+              "displayed_player": "Christian Eriksen",
+              "team": "Tottenham Hotspur FC",
+              "team_type": "club",
+              "verified_overlap": {
+                "start": "2019-06-01",
+                "end": "2019-06-01"
+              },
+              "evidence": [
+                {
+                  "url": "https://www.uefa.com/newsfiles/UCL/2019/2025486_LU.pdf",
+                  "description": "UEFA 2019 Champions League final team list; the matchday roster establishes both players were present."
+                }
+              ]
+            },
+            {
+              "displayed_player": "Kevin De Bruyne",
+              "team": "Belgium men’s senior national team",
+              "team_type": "national",
+              "verified_overlap": {
+                "start": "2018-07-06",
+                "end": "2018-07-06"
+              },
+              "evidence": [
+                {
+                  "url": "https://inside.fifa.com/tournaments/mens/worldcup/2018russia/news/worldcupathome-brazil-belgium-russia-2018-3072226",
+                  "description": "FIFA Belgium v Brazil World Cup lineup; the matchday roster establishes both players were present."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "alternatives_status": "Only selected verified alternatives are listed; the list is not exhaustive. Accept any separately verified solution.",
+      "hints": [
+        "Two of the displayed players were club teammates of the answer; the other was an international teammate.",
+        "The club connection is Tottenham Hotspur FC.",
+        "The international connection is Belgium men’s senior national team, on 2018-07-06."
+      ],
+      "game_master": {
+        "prompt": "Name a player who was a senior teammate of all three displayed players.",
+        "reveal": "Jan Vertonghen links the first two via Tottenham Hotspur FC and the third via Belgium men’s senior national team.",
+        "adjudication": "Accept every independently verified qualifying player other than the three displayed players. The listed alternatives are not exhaustive."
+      }
+    },
+    {
+      "id": 28,
+      "difficulty": "hard",
+      "difficulty_rationale": "Editorial estimate based on recognition of the displayed players and the need to connect club and national-team careers; not play-tested.",
+      "displayed_players": [
+        "Son Heung-min",
+        "Dele Alli",
+        "Eden Hazard"
+      ],
+      "primary_solution": {
+        "player": "Jan Vertonghen",
+        "connections": [
+          {
+            "displayed_player": "Son Heung-min",
+            "team": "Tottenham Hotspur FC",
+            "team_type": "club",
+            "verified_overlap": {
+              "start": "2019-06-01",
+              "end": "2019-06-01"
+            },
+            "evidence": [
+              {
+                "url": "https://www.uefa.com/newsfiles/UCL/2019/2025486_LU.pdf",
+                "description": "UEFA 2019 Champions League final team list; the matchday roster establishes both players were present."
+              }
+            ]
+          },
+          {
+            "displayed_player": "Dele Alli",
+            "team": "Tottenham Hotspur FC",
+            "team_type": "club",
+            "verified_overlap": {
+              "start": "2019-06-01",
+              "end": "2019-06-01"
+            },
+            "evidence": [
+              {
+                "url": "https://www.uefa.com/newsfiles/UCL/2019/2025486_LU.pdf",
+                "description": "UEFA 2019 Champions League final team list; the matchday roster establishes both players were present."
+              }
+            ]
+          },
+          {
+            "displayed_player": "Eden Hazard",
+            "team": "Belgium men’s senior national team",
+            "team_type": "national",
+            "verified_overlap": {
+              "start": "2018-07-06",
+              "end": "2018-07-06"
+            },
+            "evidence": [
+              {
+                "url": "https://inside.fifa.com/tournaments/mens/worldcup/2018russia/news/worldcupathome-brazil-belgium-russia-2018-3072226",
+                "description": "FIFA Belgium v Brazil World Cup lineup; the matchday roster establishes both players were present."
+              }
+            ]
+          }
+        ]
+      },
+      "verified_alternative_solutions": [
+        {
+          "player": "Toby Alderweireld",
+          "connections": [
+            {
+              "displayed_player": "Son Heung-min",
+              "team": "Tottenham Hotspur FC",
+              "team_type": "club",
+              "verified_overlap": {
+                "start": "2019-06-01",
+                "end": "2019-06-01"
+              },
+              "evidence": [
+                {
+                  "url": "https://www.uefa.com/newsfiles/UCL/2019/2025486_LU.pdf",
+                  "description": "UEFA 2019 Champions League final team list; the matchday roster establishes both players were present."
+                }
+              ]
+            },
+            {
+              "displayed_player": "Dele Alli",
+              "team": "Tottenham Hotspur FC",
+              "team_type": "club",
+              "verified_overlap": {
+                "start": "2019-06-01",
+                "end": "2019-06-01"
+              },
+              "evidence": [
+                {
+                  "url": "https://www.uefa.com/newsfiles/UCL/2019/2025486_LU.pdf",
+                  "description": "UEFA 2019 Champions League final team list; the matchday roster establishes both players were present."
+                }
+              ]
+            },
+            {
+              "displayed_player": "Eden Hazard",
+              "team": "Belgium men’s senior national team",
+              "team_type": "national",
+              "verified_overlap": {
+                "start": "2018-07-06",
+                "end": "2018-07-06"
+              },
+              "evidence": [
+                {
+                  "url": "https://inside.fifa.com/tournaments/mens/worldcup/2018russia/news/worldcupathome-brazil-belgium-russia-2018-3072226",
+                  "description": "FIFA Belgium v Brazil World Cup lineup; the matchday roster establishes both players were present."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "alternatives_status": "Only selected verified alternatives are listed; the list is not exhaustive. Accept any separately verified solution.",
+      "hints": [
+        "Two of the displayed players were club teammates of the answer; the other was an international teammate.",
+        "The club connection is Tottenham Hotspur FC.",
+        "The international connection is Belgium men’s senior national team, on 2018-07-06."
+      ],
+      "game_master": {
+        "prompt": "Name a player who was a senior teammate of all three displayed players.",
+        "reveal": "Jan Vertonghen links the first two via Tottenham Hotspur FC and the third via Belgium men’s senior national team.",
+        "adjudication": "Accept every independently verified qualifying player other than the three displayed players. The listed alternatives are not exhaustive."
+      }
+    },
+    {
+      "id": 29,
+      "difficulty": "hard",
+      "difficulty_rationale": "Editorial estimate based on recognition of the displayed players and the need to connect club and national-team careers; not play-tested.",
+      "displayed_players": [
+        "Frank Lampard",
+        "Petr Čech",
+        "Yaya Touré"
+      ],
+      "primary_solution": {
+        "player": "Didier Drogba",
+        "connections": [
+          {
+            "displayed_player": "Frank Lampard",
+            "team": "Chelsea FC",
+            "team_type": "club",
+            "verified_overlap": {
+              "start": "2012-05-19",
+              "end": "2012-05-19"
+            },
+            "evidence": [
+              {
+                "url": "https://www.uefa.com/newsfiles/UCL/2012/2007693_LU.pdf",
+                "description": "UEFA 2012 Champions League final team list; the matchday roster establishes both players were present."
+              }
+            ]
+          },
+          {
+            "displayed_player": "Petr Čech",
+            "team": "Chelsea FC",
+            "team_type": "club",
+            "verified_overlap": {
+              "start": "2012-05-19",
+              "end": "2012-05-19"
+            },
+            "evidence": [
+              {
+                "url": "https://www.uefa.com/newsfiles/UCL/2012/2007693_LU.pdf",
+                "description": "UEFA 2012 Champions League final team list; the matchday roster establishes both players were present."
+              }
+            ]
+          },
+          {
+            "displayed_player": "Yaya Touré",
+            "team": "Côte d’Ivoire men’s senior national team",
+            "team_type": "national",
+            "verified_overlap": {
+              "start": "2014-06-14",
+              "end": "2014-06-14"
+            },
+            "evidence": [
+              {
+                "url": "https://www.11v11.com/matches/ivory-coast-v-japan-14-june-2014-308660/",
+                "description": "Côte d’Ivoire v Japan World Cup match report; the matchday roster establishes both players were present."
+              }
+            ]
+          }
+        ]
+      },
+      "verified_alternative_solutions": [
+        {
+          "player": "Salomon Kalou",
+          "connections": [
+            {
+              "displayed_player": "Frank Lampard",
+              "team": "Chelsea FC",
+              "team_type": "club",
+              "verified_overlap": {
+                "start": "2012-05-19",
+                "end": "2012-05-19"
+              },
+              "evidence": [
+                {
+                  "url": "https://www.uefa.com/newsfiles/UCL/2012/2007693_LU.pdf",
+                  "description": "UEFA 2012 Champions League final team list; the matchday roster establishes both players were present."
+                }
+              ]
+            },
+            {
+              "displayed_player": "Petr Čech",
+              "team": "Chelsea FC",
+              "team_type": "club",
+              "verified_overlap": {
+                "start": "2012-05-19",
+                "end": "2012-05-19"
+              },
+              "evidence": [
+                {
+                  "url": "https://www.uefa.com/newsfiles/UCL/2012/2007693_LU.pdf",
+                  "description": "UEFA 2012 Champions League final team list; the matchday roster establishes both players were present."
+                }
+              ]
+            },
+            {
+              "displayed_player": "Yaya Touré",
+              "team": "Côte d’Ivoire men’s senior national team",
+              "team_type": "national",
+              "verified_overlap": {
+                "start": "2014-06-14",
+                "end": "2014-06-14"
+              },
+              "evidence": [
+                {
+                  "url": "https://www.11v11.com/matches/ivory-coast-v-japan-14-june-2014-308660/",
+                  "description": "Côte d’Ivoire v Japan World Cup match report; the matchday roster establishes both players were present."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "alternatives_status": "Only selected verified alternatives are listed; the list is not exhaustive. Accept any separately verified solution.",
+      "hints": [
+        "Two of the displayed players were club teammates of the answer; the other was an international teammate.",
+        "The club connection is Chelsea FC.",
+        "The international connection is Côte d’Ivoire men’s senior national team, on 2014-06-14."
+      ],
+      "game_master": {
+        "prompt": "Name a player who was a senior teammate of all three displayed players.",
+        "reveal": "Didier Drogba links the first two via Chelsea FC and the third via Côte d’Ivoire men’s senior national team.",
+        "adjudication": "Accept every independently verified qualifying player other than the three displayed players. The listed alternatives are not exhaustive."
+      }
+    },
+    {
+      "id": 30,
+      "difficulty": "hard",
+      "difficulty_rationale": "Editorial estimate based on recognition of the displayed players and the need to connect club and national-team careers; not play-tested.",
+      "displayed_players": [
+        "Juan Mata",
+        "John Obi Mikel",
+        "Gervinho"
+      ],
+      "primary_solution": {
+        "player": "Didier Drogba",
+        "connections": [
+          {
+            "displayed_player": "Juan Mata",
+            "team": "Chelsea FC",
+            "team_type": "club",
+            "verified_overlap": {
+              "start": "2012-05-19",
+              "end": "2012-05-19"
+            },
+            "evidence": [
+              {
+                "url": "https://www.uefa.com/newsfiles/UCL/2012/2007693_LU.pdf",
+                "description": "UEFA 2012 Champions League final team list; the matchday roster establishes both players were present."
+              }
+            ]
+          },
+          {
+            "displayed_player": "John Obi Mikel",
+            "team": "Chelsea FC",
+            "team_type": "club",
+            "verified_overlap": {
+              "start": "2012-05-19",
+              "end": "2012-05-19"
+            },
+            "evidence": [
+              {
+                "url": "https://www.uefa.com/newsfiles/UCL/2012/2007693_LU.pdf",
+                "description": "UEFA 2012 Champions League final team list; the matchday roster establishes both players were present."
+              }
+            ]
+          },
+          {
+            "displayed_player": "Gervinho",
+            "team": "Côte d’Ivoire men’s senior national team",
+            "team_type": "national",
+            "verified_overlap": {
+              "start": "2014-06-14",
+              "end": "2014-06-14"
+            },
+            "evidence": [
+              {
+                "url": "https://www.11v11.com/matches/ivory-coast-v-japan-14-june-2014-308660/",
+                "description": "Côte d’Ivoire v Japan World Cup match report; the matchday roster establishes both players were present."
+              }
+            ]
+          }
+        ]
+      },
+      "verified_alternative_solutions": [
+        {
+          "player": "Salomon Kalou",
+          "connections": [
+            {
+              "displayed_player": "Juan Mata",
+              "team": "Chelsea FC",
+              "team_type": "club",
+              "verified_overlap": {
+                "start": "2012-05-19",
+                "end": "2012-05-19"
+              },
+              "evidence": [
+                {
+                  "url": "https://www.uefa.com/newsfiles/UCL/2012/2007693_LU.pdf",
+                  "description": "UEFA 2012 Champions League final team list; the matchday roster establishes both players were present."
+                }
+              ]
+            },
+            {
+              "displayed_player": "John Obi Mikel",
+              "team": "Chelsea FC",
+              "team_type": "club",
+              "verified_overlap": {
+                "start": "2012-05-19",
+                "end": "2012-05-19"
+              },
+              "evidence": [
+                {
+                  "url": "https://www.uefa.com/newsfiles/UCL/2012/2007693_LU.pdf",
+                  "description": "UEFA 2012 Champions League final team list; the matchday roster establishes both players were present."
+                }
+              ]
+            },
+            {
+              "displayed_player": "Gervinho",
+              "team": "Côte d’Ivoire men’s senior national team",
+              "team_type": "national",
+              "verified_overlap": {
+                "start": "2014-06-14",
+                "end": "2014-06-14"
+              },
+              "evidence": [
+                {
+                  "url": "https://www.11v11.com/matches/ivory-coast-v-japan-14-june-2014-308660/",
+                  "description": "Côte d’Ivoire v Japan World Cup match report; the matchday roster establishes both players were present."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "alternatives_status": "Only selected verified alternatives are listed; the list is not exhaustive. Accept any separately verified solution.",
+      "hints": [
+        "Two of the displayed players were club teammates of the answer; the other was an international teammate.",
+        "The club connection is Chelsea FC.",
+        "The international connection is Côte d’Ivoire men’s senior national team, on 2014-06-14."
+      ],
+      "game_master": {
+        "prompt": "Name a player who was a senior teammate of all three displayed players.",
+        "reveal": "Didier Drogba links the first two via Chelsea FC and the third via Côte d’Ivoire men’s senior national team.",
+        "adjudication": "Accept every independently verified qualifying player other than the three displayed players. The listed alternatives are not exhaustive."
+      }
+    }
+  ],
+  "validation": {
+    "complete": false,
+    "round_count": 30,
+    "difficulty_counts": {
+      "easy": 10,
+      "medium": 10,
+      "hard": 10
+    },
+    "egypt_featured_rounds": 6,
+    "note": "Evidence checks use single dated matchday witnesses, not complete overlap intervals. Alternative search is selective, not exhaustive. Difficulty labels are preliminary editorial estimates and the set uses repeated roster bridges; it has not been play-tested. These limitations mean the original full-period and comprehensive known-alternative requirements remain unfinished."
+  }
+}
